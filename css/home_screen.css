@@ -1,0 +1,17 @@
+img.main_image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+hr.blank{
+    border: none;
+    height: 25px;
+}
+hr.custom_blank{
+    border: none;
+    height: 5px;
+}
+p.mini_width{
+    width: 15%;
+}
