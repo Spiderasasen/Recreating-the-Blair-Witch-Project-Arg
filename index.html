@@ -8,14 +8,54 @@
     <link rel="stylesheet" href="css/home_screen.css" type="text/css">
 </head>
 <body>
-        <hr class="blank">
-        <img class="main_image" src="https://web.archive.org/web/20210402102424im_/https://www.blairwitch.com/project/maintop.gif" alt="The Blair Witch Project">
-        <div class="font_container">
-            <p class="font mini_width" id="myth">Mythology</p>
-            <p class="font mini_width" id="filmmakers">The Filmmaker</p>
-            <p class="font mini_width" id="aftermath">Aftermath</p>
-            <p class="font mini_width" id="legacy">The Legacy</p>
-            <p class="font mini_width" id="recreation">Recreation</p>
+    <!--main text-->
+        <div id="main_page" class="starting_empty fading_section">
+            <hr class="blank">
+            <img class="main_image" src="https://web.archive.org/web/20210402102424im_/https://www.blairwitch.com/project/maintop.gif" alt="The Blair Witch Project">
+            <div class="font_container">
+                <p class="font mini_width starting_empty fading_section" id="myth">Mythology</p>
+                <p class="font mini_width starting_empty fading_section" id="filmmakers">The Filmmaker</p>
+                <p class="font mini_width starting_empty fading_section" id="aftermath">Aftermath</p>
+                <p class="font mini_width starting_empty fading_section" id="legacy">The Legacy</p>
+                <p class="font mini_width starting_empty fading_section" id="recreation">Recreation</p>
+            </div>
         </div>
+
+        <!--    intro text-->
+        <div id="intro" class="fading_section">
+            <p class="center_text big_text" id="first_section">In October of 1994, three student filmmakers disappeared in the woods near Burkittsville, Maryland while shooting a documentary.</p>
+            <p class="center_text starting_empty fading_section big_text" id="second_section">A year later their footage was found.</p>
+        </div>
+
+        <!-- js for the intro fade in and out-->
+        <script>
+            // Wait for a few seconds then switch views
+            setTimeout(() => {
+                document.getElementById('first_section').style.opacity = 1;
+                setTimeout(() => {
+                    document.getElementById('second_section').style.opacity = 1;
+                }, 600)
+            }, 700); // Adjust time as needed
+            setTimeout(() => { //for the main section
+                document.getElementById('intro').style.opacity = 0; // Fade out intro
+                document.getElementById('main_page').style.opacity = 1;
+            }, 3000);
+            //for the buttons
+            setTimeout(()=>{
+                document.getElementById('myth').style.opacity = 1;
+            }, 4000);
+            setTimeout(()=>{
+                document.getElementById('filmmakers').style.opacity = 1;
+            }, 5000);
+            setTimeout(()=>{
+                document.getElementById('aftermath').style.opacity = 1;
+            }, 6000);
+            setTimeout(()=>{
+                document.getElementById('legacy').style.opacity = 1;
+            }, 7000);
+            setTimeout(()=>{
+                document.getElementById('recreation').style.opacity = 1;
+            }, 8000);
+        </script>
 </body>
 </html>
