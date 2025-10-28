@@ -12,3 +12,7 @@ div.text_container{
 p.mini_width_custom{
     width: 15%;
 }
+a.new_color{
+    color: red;
+    text-decoration: underline;
+}
