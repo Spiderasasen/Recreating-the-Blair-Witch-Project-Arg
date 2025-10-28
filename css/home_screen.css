@@ -4,18 +4,10 @@ img.main_image{
     margin-right: auto;
     width: 70%;
 }
-hr.blank{
-    border: none;
-    height: 25px;
-}
 hr.custom_blank{
     border: none;
     height: 5px;
 }
-p.mini_width{
-    width: 15%;
-}
-
 .fading_section{
     transition: opacity 1s ease;
 }
