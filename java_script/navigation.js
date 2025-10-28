@@ -7,27 +7,27 @@ const recreation = document.getElementById("recreation");
 const home = document.getElementById("home");
 
 //navigating to go to the original designated screen
-myth.addEventListener("click", () => {
-    console.log("going to the myth section");
-    window.location.href = "other_screens/myth.html";
+home.addEventListener("click", () => { //going home
+    console.log("going home");
+    window.location.href = "index.html";
 });
 filmmaker.addEventListener("click", () => {
     console.log("going to the filmmaker section");
-    window.location.href = "other_screens/filmmaker.html";
+    window.location.href = "filmmaker.html";
 });
 aftermath.addEventListener("click", () => {
     console.log("going to the aftermath section");
-    window.location.href = "other_screens/aftermath.html";
+    window.location.href = "aftermath.html";
 });
 legacy.addEventListener("click", () => {
     console.log("going to the legacy section");
-    window.location.href = "other_screens/legacy.html";
+    window.location.href = "legacy.html";
 });
 recreation.addEventListener("click", () => {
     console.log("going to the recreation section");
-    window.location.href = "other_screens/recreation.html";
+    window.location.href = "recreation.html";
 })
-home.addEventListener("click", () => { //going home
-    console.log("going home");
-    window.location.href = "../index.html";
+myth.addEventListener("click", () => {
+    console.log("going to the myth section");
+    window.location.href = "myth.html";
 });

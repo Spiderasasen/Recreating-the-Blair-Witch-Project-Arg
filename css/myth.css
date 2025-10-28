@@ -9,4 +9,6 @@ div.text_container{
     padding-right: 15px;
     display: flex;
 }
-p.mini_width_custom
+p.mini_width_custom{
+    width: 15%;
+}
