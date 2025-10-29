@@ -3,8 +3,58 @@
 <head>
     <meta charset="UTF-8">
     <title>Kedward</title>
+    <link rel="stylesheet" href="/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/css/myth_sections_main.css" type="text/css">
 </head>
 <body>
 
+
+    <!--normal title-->
+    <div>
+        <img class="title" src="https://web.archive.org/web/20210402102232im_/https://www.blairwitch.com/project/mythhead.gif" alt="Mythology title img.">
+        <hr class="blank">
+        <p class="center_text font" id="myth">Back to the Timeline</p>
+    </div>
+
+<!--    main section-->
+    <hr class="blank">
+    <div>
+        <img id="sound_from_img" alt="clickable img" class="center_img" src="https://web.archive.org/web/20180825050149im_/http://www.blairwitch.com/project/kedward.gif">
+    </div>
+
+    <!--button section-->
+    <hr class="blank">
+    <div class="button_container">
+        <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+        <img class="starting_empty" id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+    </div>
+
+    <!--table to hold all the info-->
+    <hr class="blank">
+    <div class="font_container_custom">
+        <p class="font center_text mini_width" id="home">Home</p>
+        <p class="font center_text mini_width" id="filmmakers">Filmmakers</p>
+        <p class="font center_text mini_width" id="aftermath">Aftermath</p>
+        <p class="font center_text mini_width" id="legacy">The Legacy</p>
+        <p class="font center_text mini_width" id="recreation">Recreation</p>
+    </div>
+    <!--    navigation from this one to the other one-->
+    <script>
+        const sound = new Audio('/assests/audio/womansound.mov')
+
+        //for the button
+        document.getElementById("left_button").onclick = function () {
+            console.log("left button");
+            window.location.href = "Kedward1.html"
+        }
+        //doing a clickable image
+        document.getElementById("sound_from_img").onclick = function () {
+            console.log("sound");
+            sound.currentTime = 0;
+            sound.play();
+        }
+    </script>
+    <!--    navigation for the main screens-->
+    <script src="/java_script/navigation_to_leave_2_directories.js"></script>
 </body>
 </html>
