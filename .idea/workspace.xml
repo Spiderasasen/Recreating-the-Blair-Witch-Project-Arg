@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;creating the main code for Kedward1.html&#10;its going to be the main layout for most of these other screens.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assests/audio/book.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assests/audio/book2.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assests/audio/burkittsville.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assests/audio/burkittsville2.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assests/audio/womansound.mov" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myth_sections/Kedward/Kedward1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Kedward/Kedward1.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;finishing up the screen just adding some audio files">
       <change beforePath="$PROJECT_DIR$/myth_sections/Kedward/Kedward2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Kedward/Kedward2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +93,7 @@
       <workItem from="1761237969252" duration="11493000" />
       <workItem from="1761320154096" duration="2600000" />
       <workItem from="1761672543548" duration="2109000" />
-      <workItem from="1761740790708" duration="7606000" />
+      <workItem from="1761740790708" duration="8314000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -190,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761753526212</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Creating the other screens&#10;finishing up the screen just adding some audio files">
+      <option name="closed" value="true" />
+      <created>1761756677245</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1761756677245</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -217,6 +218,7 @@
     <MESSAGE value="Working on myth screen&#10;finally finishing the code&#10;adding the links with the respected color" />
     <MESSAGE value="Creating the other screens&#10;i added more assets to the screen.&#10;I only added audio right now. but it will be better" />
     <MESSAGE value="Creating the other screens&#10;creating the main code for Kedward1.html&#10;its going to be the main layout for most of these other screens." />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the other screens&#10;creating the main code for Kedward1.html&#10;its going to be the main layout for most of these other screens." />
+    <MESSAGE value="Creating the other screens&#10;finishing up the screen just adding some audio files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating the other screens&#10;finishing up the screen just adding some audio files" />
   </component>
 </project>
