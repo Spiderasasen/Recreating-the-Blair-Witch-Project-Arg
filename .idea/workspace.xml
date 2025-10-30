@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;finished kedward2">
-      <change afterPath="$PROJECT_DIR$/myth_sections/Book_section/Book1.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;finished Book1.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myth.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myth_sections/Kedward/Kedward1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Kedward/Kedward1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/myth_sections_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/myth_sections_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Book_section/Book2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Book_section/Book2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +96,7 @@
       <workItem from="1761320154096" duration="2600000" />
       <workItem from="1761672543548" duration="2109000" />
       <workItem from="1761740790708" duration="9261000" />
-      <workItem from="1761824667909" duration="323000" />
+      <workItem from="1761824667909" duration="1149000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -203,7 +202,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761757396269</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Creating the other screens&#10;finished Book1.html">
+      <option name="closed" value="true" />
+      <created>1761825152512</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1761825152512</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +239,7 @@
     <MESSAGE value="Creating the other screens&#10;creating the main code for Kedward1.html&#10;its going to be the main layout for most of these other screens." />
     <MESSAGE value="Creating the other screens&#10;finishing up the screen just adding some audio files" />
     <MESSAGE value="Creating the other screens&#10;finished kedward2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the other screens&#10;finished kedward2" />
+    <MESSAGE value="Creating the other screens&#10;finished Book1.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating the other screens&#10;finished Book1.html" />
   </component>
 </project>

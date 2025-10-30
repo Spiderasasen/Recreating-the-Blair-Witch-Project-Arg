@@ -35,3 +35,6 @@ div.button_container{
 .starting_empty{
     opacity: 0;
 }
+p.book_section{
+    color: red;
+}

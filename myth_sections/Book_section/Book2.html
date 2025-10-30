@@ -3,8 +3,75 @@
 <head>
     <meta charset="UTF-8">
     <title>Book</title>
+    <link rel="stylesheet" href="/css/myth_sections_main.css" type="text/css">
+    <link rel="stylesheet" href="/css/main.css" type="text/css">
 </head>
 <body>
+    <!--normal title-->
+    <div>
+        <img class="title" alt="Mythology Text" src="https://web.archive.org/web/20210402102232im_/https://www.blairwitch.com/project/mythhead.gif" alt="Mythology title img.">
+        <hr class="blank">
+        <p class="center_text font" id="myth">Back to the Timeline</p>
+    </div>
 
+    <div>
+        <hr class="blank">
+        <img class="center_img" alt="image of the blair witch book" src="https://web.archive.org/web/20180825050149im_/http://www.blairwitch.com/project/book2.gif">
+        <div class="text_container_custom">
+            <p class="book_section">Published in 1809, the original copy of "The Blair Witch Cult" is badly damaged, with little of the writing still legible. Below are excerpts from parts of the book that can still be read.</p>
+        </div>
+        <div class="text_container_custom">
+            <p>It was testifi'd, That at the Examination of the Prisoner Kedward before the Magistrates, the Bewitched was extreamly tortured.</p>
+        </div>
+        <div class="text_container_custom">
+            <p>. . .was the Shape of the Prisoner, which was whipped with Iron Rods, to compel her thereunto.</p>
+        </div>
+        <div class="text_container_custom">
+            <p>. . .about Sun Rise, he was in his Chamber assaulted by the Shape of this Prisoner : which look'd on him, grinn'd at him, and very much hurt him with a Blow on the side. . .and. . .Shape walked in the Room where he was, and a Book strangely flew out of his Hand, into the. . . six or eight Foot from him.</p>
+        </div>
+        <div class="text_container_custom">
+            <p>. . .he wak'd on a Night, and saw plainly a Woman between the Cradle and the Bed-side, which look'd upon him. He rose, and it vanished : tho' he found the doors all fast. . .he saw the same Woman, in the same Garb again ; and said, In God's Name, what do you come for? He went. . .The Child in the Cradle gave a great Screech, and the Woman disappeared. Blood was. . .</p>
+        </div>
+        <div class="text_container_custom">
+            <p>. . .with the doors shut about him, he saw a black Thing jump in at the window, and come and stand before him. The Body was like that of a Monkey, the Feet like a Horse, but the face much like a Man. The Day after, upon inspection, Hair of Horse lay in. . .</p>
+        </div>
+        <div class="text_container_custom">
+            <p>. . .did in the holes of the said old Wall, find several Poppets, made up of Sticks and Rags and Hogs-bristles, with headless. . .</p>
+        </div>
+    </div>
+
+    <!--button section-->
+    <hr class="blank">
+    <div class="button_container">
+        <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+        <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+    </div>
+
+    <!--table to hold all the info-->
+    <hr class="blank">
+    <div class="font_container_custom">
+        <p class="font center_text mini_width" id="home">Home</p>
+        <p class="font center_text mini_width" id="filmmakers">Filmmakers</p>
+        <p class="font center_text mini_width" id="aftermath">Aftermath</p>
+        <p class="font center_text mini_width" id="legacy">The Legacy</p>
+        <p class="font center_text mini_width" id="recreation">Recreation</p>
+    </div>
+
+    <!--    navigation from this one to the other one-->
+    <script>
+        //left button
+        document.getElementById('left_button').addEventListener('click', () => {
+            console.log('left_button');
+            window.location.href = "Book1.html"
+        })
+
+        //right button
+        document.getElementById("right_button").onclick = function () {
+            console.log("right button");
+            window.location.href = "Book2.html"
+        }
+    </script>
+    <!--    navigation for the main screens-->
+    <script src="/java_script/navigation_to_leave_2_directories.js"></script>
 </body>
 </html>
