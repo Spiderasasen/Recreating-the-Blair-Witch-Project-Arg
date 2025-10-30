@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Mythology Book</title>
-    <link rel="stylesheet" href="/css/myth_sections_main.css" type="text/css">
+    <title>Mythology Town</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/css/myth_sections_main.css" type="text/css">
 </head>
 <body>
     <!--normal title-->
@@ -14,18 +14,17 @@
         <p class="center_text font" id="myth">Back to the Timeline</p>
     </div>
 
-<!--    normal code-->
     <div>
-        <img id="clickable_image" alt="Bill Barnes" class="center_img" src="https://web.archive.org/web/20190828194900im_/http://www.blairwitch.com/project/barnes.gif">
-        <div class="center_text">
-            <p>Bill Barnes, Executive Director of the Bukittsville Historical Society, discusses the Blair Witch Cult book.</p>
+        <img class="center_img" alt="Image of the town of Burkittsville" src="https://web.archive.org/web/20190820085043im_/http://www.blairwitch.com/project/town_1.gif">
+        <div class="text_container_custom">
+            <p>Burkittsville, Pop. 194, is located in Frederick County, Maryland approximately one hour from Washington, D.C.</p>
         </div>
     </div>
 
-<!--button section-->
+    <!--button section-->
     <hr class="blank">
     <div class="button_container">
-        <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+        <img class="starting_empty"  id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
         <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
     </div>
 
@@ -39,28 +38,13 @@
         <p class="font center_text mini_width" id="recreation">Recreation</p>
     </div>
 
-<!--    navigation from this one to the other one-->
+    <!--    navigation from this one to the other one-->
     <script>
-        //sound
-        const sound = new Audio('/assests/audio/book.mp3')
-
-        document.getElementById('clickable_image').addEventListener('click', () => {
-            console.log('sound')
-            sound.currentTime = 0
-            sound.play()
-        })
-
         //left button
-        document.getElementById('left_button').addEventListener('click', () => {
-            console.log('left_button');
-            window.location.href = "Book4.html"
+        document.getElementById('right_button').addEventListener('click', () => {
+            console.log('right_button');
+            window.location.href = "Town2.html";
         })
-
-        //right button
-        document.getElementById("right_button").onclick = function () {
-            console.log("right button");
-            window.location.href = "Book6.html"
-        }
     </script>
     <!--    navigation for the main screens-->
     <script src="/java_script/navigation_to_leave_2_directories.js"></script>
