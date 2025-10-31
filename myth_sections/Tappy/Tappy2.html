@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Mythology Blair</title>
+    <title>Mythology Tappy East Creek</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
     <link rel="stylesheet" href="/css/myth_sections_main.css" type="text/css">
 </head>
@@ -15,27 +15,16 @@
     </div>
 
     <div>
-        <img id="clickable_img" class="center_img" usemap="#image-map" alt="Map of Blair in 1771" src="https://web.archive.org/web/20180825050151im_/http://www.blairwitch.com/project/map.gif">
+        <img id="clickable_img" class="center_img" alt="Image of Bill Barnes" src="https://web.archive.org/web/20180825050136im_/http://www.blairwitch.com/project/barnes4.gif">
         <div class="text_container_custom">
-            <p>Map of Blair in 1771</p>
-        </div>
-        <div class="text_container_custom">
-            <p>Click on regions of the map to see an enlarged view</p>
+            <p>Bill Barnes, Executive Director of the Burkittsville Historical Society, discusses the incident at Tappy East Creek.</p>
         </div>
     </div>
-
-<!--    map function-->
-    <map name="image-map">
-        <area alt="region 1" title="region1" coords="-1,170,149,291" shape="rect" href="/assests/Map_parts/exc3.gif" target="_blank">
-        <area alt="region 2" title="region2" coords="149,207,315,291" shape="rect" href="/assests/Map_parts/exc2.gif" target="_blank">
-        <area alt="region 3" title="region3" coords="316,156,448,246" shape="rect" href="/assests/Map_parts/exc1.gif" target="_blank">
-        <area alt="region 4" title="region4" coords="234,54,106,170" shape="rect" href="/assests/Map_parts/exc4.gif" target="_blank">
-    </map>
 
     <!--button section-->
     <hr class="blank">
     <div class="button_container">
-        <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+        <img  id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
         <img class="starting_empty" id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
     </div>
 
@@ -51,9 +40,17 @@
 
     <!--    navigation from this one to the other one-->
     <script>
-        document.getElementById('left_button').addEventListener("click", () => {
+        const sound = new Audio('/assests/audio/treacle.mp3');
+
+        document.getElementById('clickable_img').addEventListener('click', () => {
+            sound.currentTime = 0;
+            sound.play();
+        })
+
+        //left button
+        document.getElementById('left_button').addEventListener('click', () => {
             console.log('left_button');
-            window.location.href= "Blair2.html"
+            window.location.href = "Tappy1.html";
         })
     </script>
     <!--    navigation for the main screens-->
