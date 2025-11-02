@@ -38,3 +38,7 @@ div.button_container{
 p.book_section{
     color: red;
 }
+p.type_link{
+    color: red;
+    text-decoration: underline;
+}
