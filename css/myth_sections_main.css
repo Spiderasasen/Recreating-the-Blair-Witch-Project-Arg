@@ -24,7 +24,7 @@ div.text_container_custom{
     margin-right: auto ;
     justify-content: center;
     text-align: center;
-    width: 300px;
+    width: 450px;
 }
 div.button_container{
     display: flex;
@@ -41,4 +41,30 @@ p.book_section{
 p.type_link{
     color: red;
     text-decoration: underline;
+}
+div.img_container{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+div.video_overlay_container{
+    width: 240px;
+    margin: 0 auto;
+    position: relative;
+}
+img.clickable-image{
+    display: block;
+    max-width: 100%;
+    cursor: pointer;
+}
+#overlayVideo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    cursor: pointer;
 }

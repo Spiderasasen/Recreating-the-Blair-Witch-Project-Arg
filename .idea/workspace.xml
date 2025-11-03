@@ -4,14 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;finished tappy creek">
-      <change afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin7.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;finished Coffin Rock&#10;Im starting to just hate the audio section more and more.&#10;Like its fun but fuck me m8, why so many audio files">
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/myth_sections_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/myth_sections_main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myth.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth.html" afterDir="false" />
@@ -107,7 +111,7 @@
       <workItem from="1761740790708" duration="9261000" />
       <workItem from="1761824667909" duration="9505000" />
       <workItem from="1761911956432" duration="6098000" />
-      <workItem from="1762119229693" duration="1677000" />
+      <workItem from="1762119229693" duration="8033000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -285,7 +289,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761913551276</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Creating the other screens&#10;finished Coffin Rock&#10;Im starting to just hate the audio section more and more.&#10;Like its fun but fuck me m8, why so many audio files">
+      <option name="closed" value="true" />
+      <created>1762121100319</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1762121100319</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -322,6 +334,7 @@
     <MESSAGE value="Creating the other screens&#10;finished all the sections of town. now going on to bliar, which i dont have the audio files for, so yay" />
     <MESSAGE value="Creating the other screens&#10;Made a clickable map, so im just commiting ot save my work" />
     <MESSAGE value="Creating the other screens&#10;finished tappy creek" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the other screens&#10;finished tappy creek" />
+    <MESSAGE value="Creating the other screens&#10;finished Coffin Rock&#10;Im starting to just hate the audio section more and more.&#10;Like its fun but fuck me m8, why so many audio files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating the other screens&#10;finished Coffin Rock&#10;Im starting to just hate the audio section more and more.&#10;Like its fun but fuck me m8, why so many audio files" />
   </component>
 </project>
