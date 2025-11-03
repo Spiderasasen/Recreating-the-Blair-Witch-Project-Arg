@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Mythology Mary Brown</title>
+    <title>Mythology Fishermen</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
     <link rel="stylesheet" href="/css/myth_sections_main.css" type="text/css">
 </head>
@@ -15,16 +15,16 @@
 </div>
 
 <div>
-    <img id="clickable_img" class="center_img" alt="Image of Mary Brown" src="https://web.archive.org/web/20180825050134im_/http://www.blairwitch.com/project/mb6.gif">
+    <img id="clickable_img" class="center_img" alt="Image of local fishermen" src="https://web.archive.org/web/20180825050137im_/http://www.blairwitch.com/project/fishermen1.gif">
     <div class="text_container_custom">
-        <p>Mary Brown discusses the Blair Witch phenomenon.</p>
+        <p>Local fishermen Ed Swanson and Bob Griffin discuss the legend of the Blair Witch with Heather Donahue</p>
     </div>
 </div>
 
 <!--button section-->
 <hr class="blank">
 <div class="button_container">
-    <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+    <img  id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
     <img class="starting_empty" id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
 </div>
 
@@ -40,17 +40,11 @@
 
 <!--    navigation from this one to the other one-->
 <script>
-    const sound = new Audio("/assests/audio/marybrown3.mp3");
+    const sound = new Audio("/assests/audio/fishermenaudio1.mp3");
 
     document.getElementById('clickable_img').addEventListener("click", () => {
         sound.currentTime = 0;
         sound.play();
-    })
-
-    //left button
-    document.getElementById('left_button').addEventListener('click', () => {
-        console.log('left_button');
-        window.location.href = "Brown3.html";
     })
 </script>
 <!--    navigation for the main screens-->

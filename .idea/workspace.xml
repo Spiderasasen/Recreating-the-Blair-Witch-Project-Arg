@@ -4,13 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;finished Rustin Parr&#10;Honstley, even though it had a lot of screen i had more fun, adding some of my unique elements like the video overlay and also the mapping of the newspaper. so yeah, good one">
-      <change afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown4.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;finished Marry Brown&#10;a lot of audio, and more disscussion on the blair witch">
+      <change afterPath="$PROJECT_DIR$/myth_sections/Fishermen/Fishermen1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myth_sections/Fishermen/Fishermen2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/home_screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home_screen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/myth.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Brown/Brown4.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown4.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -105,7 +105,7 @@
       <workItem from="1761824667909" duration="9505000" />
       <workItem from="1761911956432" duration="6098000" />
       <workItem from="1762119229693" duration="8395000" />
-      <workItem from="1762174087518" duration="1456000" />
+      <workItem from="1762174087518" duration="2496000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -299,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762128346341</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Creating the other screens&#10;finished Marry Brown&#10;a lot of audio, and more disscussion on the blair witch">
+      <option name="closed" value="true" />
+      <created>1762175605432</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1762175605432</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -338,6 +346,7 @@
     <MESSAGE value="Creating the other screens&#10;finished tappy creek" />
     <MESSAGE value="Creating the other screens&#10;finished Coffin Rock&#10;Im starting to just hate the audio section more and more.&#10;Like its fun but fuck me m8, why so many audio files" />
     <MESSAGE value="Creating the other screens&#10;finished Rustin Parr&#10;Honstley, even though it had a lot of screen i had more fun, adding some of my unique elements like the video overlay and also the mapping of the newspaper. so yeah, good one" />
-    <option name="LAST_COMMIT_MESSAGE" value="Creating the other screens&#10;finished Rustin Parr&#10;Honstley, even though it had a lot of screen i had more fun, adding some of my unique elements like the video overlay and also the mapping of the newspaper. so yeah, good one" />
+    <MESSAGE value="Creating the other screens&#10;finished Marry Brown&#10;a lot of audio, and more disscussion on the blair witch" />
+    <option name="LAST_COMMIT_MESSAGE" value="Creating the other screens&#10;finished Marry Brown&#10;a lot of audio, and more disscussion on the blair witch" />
   </component>
 </project>
