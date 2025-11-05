@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Creating the other screens&#10;finished Marry Brown&#10;a lot of audio, and more disscussion on the blair witch">
-      <change afterPath="$PROJECT_DIR$/myth_sections/Fishermen/Fishermen1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/myth_sections/Fishermen/Fishermen2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/buttons.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/receation_main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_script/buttons_for_recreation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/home_screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home_screen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myth.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myth_sections/Brown/Brown4.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recreation.html" beforeDir="false" afterPath="$PROJECT_DIR$/recreation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -57,27 +56,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Blair3.html.executor": "Debug",
-    "JavaScript Debug.Coffin2.html.executor": "Debug",
-    "JavaScript Debug.index.html.executor": "Debug",
-    "JavaScript Debug.myth.html.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "adding-all-the-screens-in-myth",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Blair3.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.Coffin2.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.myth.html.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;working-on-the-buttons-for-recration&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\myth_sections\Kedward" />
@@ -106,6 +105,9 @@
       <workItem from="1761911956432" duration="6098000" />
       <workItem from="1762119229693" duration="8395000" />
       <workItem from="1762174087518" duration="2496000" />
+      <workItem from="1762212946139" duration="615000" />
+      <workItem from="1762261717377" duration="2324000" />
+      <workItem from="1762346475487" duration="1706000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
