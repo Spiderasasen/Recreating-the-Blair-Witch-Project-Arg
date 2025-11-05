@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="i created the recreation section of the code. its not done. not at all. but it has a basic bone structre to fallow.&#10;I might ask wills and kay if they can help me create a kinda fallow up story for the blair witch just so we can scare our professor more&#10;but the thank you email, if im lucky, will be sent out around the end of the month. where each student will send me a bout a paragrah in length just thanking the teacher for the class. and if we can, ill find a way to add a class picture for us. this is a xmas present so i need to make it scary but not tooooooo scary">
-      <change afterPath="$PROJECT_DIR$/css/filmmaker_main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on filmmaker&#10;creating the main sections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/filmmaker_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/filmmaker_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/myth_sections_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/myth_sections_main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/filmmaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmaker.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,7 +108,7 @@
       <workItem from="1762212946139" duration="615000" />
       <workItem from="1762261717377" duration="2324000" />
       <workItem from="1762346475487" duration="1706000" />
-      <workItem from="1762362809212" duration="539000" />
+      <workItem from="1762362809212" duration="2437000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -309,7 +310,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762175605432</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Working on filmmaker&#10;creating the main sections">
+      <option name="closed" value="true" />
+      <created>1762363378448</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1762363378448</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -350,6 +359,7 @@
     <MESSAGE value="Creating the other screens&#10;finished Rustin Parr&#10;Honstley, even though it had a lot of screen i had more fun, adding some of my unique elements like the video overlay and also the mapping of the newspaper. so yeah, good one" />
     <MESSAGE value="Creating the other screens&#10;finished Marry Brown&#10;a lot of audio, and more disscussion on the blair witch" />
     <MESSAGE value="i created the recreation section of the code. its not done. not at all. but it has a basic bone structre to fallow.&#10;I might ask wills and kay if they can help me create a kinda fallow up story for the blair witch just so we can scare our professor more&#10;but the thank you email, if im lucky, will be sent out around the end of the month. where each student will send me a bout a paragrah in length just thanking the teacher for the class. and if we can, ill find a way to add a class picture for us. this is a xmas present so i need to make it scary but not tooooooo scary" />
-    <option name="LAST_COMMIT_MESSAGE" value="i created the recreation section of the code. its not done. not at all. but it has a basic bone structre to fallow.&#10;I might ask wills and kay if they can help me create a kinda fallow up story for the blair witch just so we can scare our professor more&#10;but the thank you email, if im lucky, will be sent out around the end of the month. where each student will send me a bout a paragrah in length just thanking the teacher for the class. and if we can, ill find a way to add a class picture for us. this is a xmas present so i need to make it scary but not tooooooo scary" />
+    <MESSAGE value="Working on filmmaker&#10;creating the main sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on filmmaker&#10;creating the main sections" />
   </component>
 </project>

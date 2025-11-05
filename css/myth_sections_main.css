@@ -26,12 +26,6 @@ div.text_container_custom{
     text-align: center;
     width: 450px;
 }
-div.button_container{
-    display: flex;
-    justify-content: center;
-    margin: 0 auto;
-    gap: 300px;
-}
 .starting_empty{
     opacity: 0;
 }

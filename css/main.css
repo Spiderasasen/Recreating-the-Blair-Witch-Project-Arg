@@ -62,3 +62,9 @@ hr.blank{
     border: none;
     height: 25px;
 }
+div.button_container{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 300px;
+}

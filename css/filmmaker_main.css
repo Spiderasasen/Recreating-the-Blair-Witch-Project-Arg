@@ -1,0 +1,9 @@
+img.center_img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.mini_width_custom{
+    width: 10%;
+}

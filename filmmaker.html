@@ -7,6 +7,44 @@
     <link rel="stylesheet" href="css/filmmaker_main.css" type="text/css">
 </head>
 <body>
-    <p>UNDER CONSTRUCTION</p>
+<!--main title section-->
+    <div>
+        <hr class="blank">
+        <img alt="Filmmaker title" id="filmmakers" class="center_img" src="https://web.archive.org/web/20210402102741im_/https://www.blairwitch.com/project/filmhead.gif">
+        <hr class="blank">
+        <div class="font_container">
+            <p class="font mini_width_custom">Heather Donahue</p>
+            <p class="font mini_width_custom">Joshua Leonard</p>
+            <p class="font mini_width_custom">Michael Williams</p>
+        </div>
+    </div>
+
+<!--navigation buttons-->
+    <div class="button_container">
+        <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+        <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+    </div>
+
+<!--    original navigation buttons-->
+    <hr class="blank">
+    <div class="font_container">
+        <p class="font mini_width_custom" id="home">Home</p>
+        <p class="font mini_width_custom" id="myth">Mythology</p>
+        <p class="font mini_width_custom" id="legacy">Legacy</p>
+        <p class="font mini_width_custom" id="aftermath">Aftermath</p>
+        <p class="font mini_width_custom" id="recreation">Recreation</p>
+    </div>
+
+<!--    js links-->
+    <script>
+        document.getElementById('left_button').addEventListener('click', () => {
+            console.log('left_button');
+        });
+        document.getElementById('right_button').addEventListener('click', () => {
+            console.log('right_button');
+        })
+    </script>
+    <script src="/java_script/navigation.js"></script>
+
 </body>
 </html>
