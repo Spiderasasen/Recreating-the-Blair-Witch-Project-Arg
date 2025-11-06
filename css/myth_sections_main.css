@@ -18,14 +18,6 @@ div.font_container_custom{
     align-items: center;
     width: 50%
 }
-div.text_container_custom{
-    display: flex;
-    margin-left: auto;
-    margin-right: auto ;
-    justify-content: center;
-    text-align: center;
-    width: 450px;
-}
 .starting_empty{
     opacity: 0;
 }
