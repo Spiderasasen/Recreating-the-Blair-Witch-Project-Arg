@@ -4,12 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on filmmaker&#10;creating the main sections">
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on filmmaker&#10;made the main layout, now to add the other sections">
+      <change afterPath="$PROJECT_DIR$/css/video_code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_script/video.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/filmmaker_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/filmmaker_main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/home_screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home_screen.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/myth_sections_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/myth_sections_main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/filmmaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmaker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr10.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr10.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
-        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -73,12 +84,13 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\filmmakers_sections\main_film" />
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\myth_sections\Kedward" />
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\assests\audio" />
     </key>
@@ -109,7 +121,8 @@
       <workItem from="1762261717377" duration="2324000" />
       <workItem from="1762346475487" duration="1706000" />
       <workItem from="1762362809212" duration="2473000" />
-      <workItem from="1762434022725" duration="704000" />
+      <workItem from="1762434022725" duration="3728000" />
+      <workItem from="1762615003500" duration="2018000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -327,7 +340,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762365301265</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Working on filmmaker&#10;made the main layout, now to add the other sections">
+      <option name="closed" value="true" />
+      <created>1762434770636</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1762434770636</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,6 +390,7 @@
     <MESSAGE value="Creating the other screens&#10;finished Marry Brown&#10;a lot of audio, and more disscussion on the blair witch" />
     <MESSAGE value="i created the recreation section of the code. its not done. not at all. but it has a basic bone structre to fallow.&#10;I might ask wills and kay if they can help me create a kinda fallow up story for the blair witch just so we can scare our professor more&#10;but the thank you email, if im lucky, will be sent out around the end of the month. where each student will send me a bout a paragrah in length just thanking the teacher for the class. and if we can, ill find a way to add a class picture for us. this is a xmas present so i need to make it scary but not tooooooo scary" />
     <MESSAGE value="Working on filmmaker&#10;creating the main sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on filmmaker&#10;creating the main sections" />
+    <MESSAGE value="Working on filmmaker&#10;made the main layout, now to add the other sections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on filmmaker&#10;made the main layout, now to add the other sections" />
   </component>
 </project>

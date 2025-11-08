@@ -11,9 +11,6 @@ hr.custom_blank{
 .fading_section{
     transition: opacity 1s ease;
 }
-.starting_empty{
-    opacity: 0;
-}
 .big_text{
     font-size: 40px;
 }

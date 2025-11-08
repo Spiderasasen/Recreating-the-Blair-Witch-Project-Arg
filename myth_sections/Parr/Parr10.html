@@ -5,6 +5,7 @@
     <title>Mythology Rustin Parr</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
     <link rel="stylesheet" href="/css/myth_sections_main.css" type="text/css">
+    <link rel="stylesheet" href="/css/video_code.css" type="text/css">
 </head>
 <body>
 <!--normal title-->
@@ -42,27 +43,7 @@
 </div>
 
 <!--    navigation from this one to the other one-->
-<script>
-
-    //making the overlay video effect
-    const image = document.querySelector('.clickable-image');
-    const video = document.getElementById('overlayVideo');
-
-    image.addEventListener('click', () => {
-        video.style.display = 'block';
-        video.currentTime = 0;
-        video.play();
-    });
-
-    video.addEventListener('ended', () =>{
-        video.style.display = 'none';
-    })
-
-    document.getElementById('clickable_image').addEventListener('click', () => {
-        sound.currentTime = 0;
-        sound.play();
-    })
-</script>
+<script src="/java_script/video.js"></script>
 <script>
     //left button
     document.getElementById('left_button').addEventListener('click', () => {

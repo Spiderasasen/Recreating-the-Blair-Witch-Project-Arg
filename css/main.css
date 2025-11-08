@@ -82,3 +82,6 @@ div.text_container_custom{
     text-align: center;
     width: 450px;
 }
+.starting_empty{
+    opacity: 0;
+}

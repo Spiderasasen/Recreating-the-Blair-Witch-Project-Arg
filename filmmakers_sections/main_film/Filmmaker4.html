@@ -5,6 +5,7 @@
     <title>The Filmmakers</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
     <link rel="stylesheet" href="/css/filmmaker_main.css" type="text/css">
+    <link rel="stylesheet" href="/css/video_code.css" type="text/css">
 </head>
 <body>
 <!--main title section-->
@@ -21,9 +22,13 @@
 
 <!--noramal changing code-->
 <div>
-    <img alt="an image of the filmmakers working on a class assignment" class="center_img" src="https://web.archive.org/web/20190817021106im_/http://www.blairwitch.com/project/heather_and_josh_editing.gif">
+    <hr class="blank">
+    <div class="video_overlay_container">
+        <img alt="a video of the filmmakers interacting" class="clickable-image" src="https://web.archive.org/web/20190807034126im_/http://www.blairwitch.com/project/wheresmikey.gif">
+        <video id="overlayVideo" width="640" height="360" style="display:none; position:absolute; yop:0; left:0; cursor:pointer;" controls> <source src="/assests/Video/wheresmikey.mp4"/>Your browser does not support this video tag</video>
+    </div>
     <div class="text_container_custom">
-        <p>Heather and Josh editing a film class assignment a few weeks before embarking on the Blair Witch Project.</p>
+        <p>Early morning footage from Day 1 of the Blair Witch Project.</p>
     </div>
 </div>
 
@@ -45,14 +50,15 @@
 </div>
 
 <!--    js links-->
+<script src="/java_script/video.js"></script>
 <script>
     document.getElementById('left_button').addEventListener('click', () => {
         console.log('left_button');
-        window.location.href = '../../filmmaker.html'
+        window.location.href = 'Filmmaker3.html'
     });
     document.getElementById('right_button').addEventListener('click', () => {
         console.log('right_button');
-        window.location.href = 'Filmmaker3.html';
+        window.location.href = 'Filmmaker5.html';
     })
 </script>
 <script src="/java_script/navigation_to_leave_2_directories.js"></script>

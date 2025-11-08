@@ -16,10 +16,8 @@ div.font_container_custom{
     justify-content: center;
     text-align: center;
     align-items: center;
-    width: 50%
-}
-.starting_empty{
-    opacity: 0;
+    width: 50%;
+    gap: 10px;
 }
 p.book_section{
     color: red;
@@ -35,22 +33,4 @@ div.img_container{
     justify-content: center;
     text-align: center;
     align-items: center;
-}
-div.video_overlay_container{
-    width: 240px;
-    margin: 0 auto;
-    position: relative;
-}
-img.clickable-image{
-    display: block;
-    max-width: 100%;
-    cursor: pointer;
-}
-#overlayVideo{
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: auto;
-    cursor: pointer;
 }
