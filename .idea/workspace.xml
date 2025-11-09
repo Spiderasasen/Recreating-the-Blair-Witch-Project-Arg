@@ -4,11 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now.">
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/Heather/Heather1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_script/indiv_filmakers.js" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather">
+      <change afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/filmmaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmaker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/Heather/Heather1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker10.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker11.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker3.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker4.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker5.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker6.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker7.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker8.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker9.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_script/indiv_filmakers.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/indiv_filmakers.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +29,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -79,6 +90,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\inividual_filmmakers" />
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\filmmakers_sections\main_film" />
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\myth_sections\Kedward" />
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\assests\audio" />
@@ -346,7 +358,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762617223202</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather">
+      <option name="closed" value="true" />
+      <created>1762702816145</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1762702816145</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,7 +384,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Im creating the main page, before the animations to see how the page will look like" />
     <MESSAGE value="main page&#10;Created the main page look, now i need to add the animation from the start." />
     <MESSAGE value="main page&#10;fixed the transition part of the code" />
     <MESSAGE value="main page&#10;editing font" />
@@ -389,6 +408,7 @@
     <MESSAGE value="Working on filmmaker&#10;creating the main sections" />
     <MESSAGE value="Working on filmmaker&#10;made the main layout, now to add the other sections" />
     <MESSAGE value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
+    <MESSAGE value="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather" />
   </component>
 </project>

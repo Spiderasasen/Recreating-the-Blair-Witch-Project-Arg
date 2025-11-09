@@ -2,10 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>The Filmmakers</title>
+    <title>Heather Donahue</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
     <link rel="stylesheet" href="/css/filmmaker_main.css" type="text/css">
-    <!--    <link rel="stylesheet" href="/css/video_code.css" type="text/css">-->
 </head>
 <body>
 <!--main title section-->
@@ -22,8 +21,10 @@
 
 <!--noramal changing code-->
 <div>
-    <hr class="blank">
-    <img id="clickable_image" alt="clickable image" class="center_img" src="https://web.archive.org/web/20180825050210im_/http://www.blairwitch.com/project/someonelooking.gif">
+    <img alt="an image of the filmmakers" class="center_img" src="https://web.archive.org/web/20210402103325im_/http://www.blairwitch.com/project/heather1_sm.gif">
+    <div class="text_container_custom">
+        <p>Heather, a few days before the shoot, shopping for supplies at a surplus store near her home.</p>
+    </div>
 </div>
 
 <!--navigation buttons-->
@@ -44,27 +45,18 @@
 </div>
 
 <!--    js links-->
-<!--<script src="/java_script/video.js"></script>-->
 <script>
-    //sound
-    const sound = new Audio('/assests/audio/someonelooking.mp3');
-
-    document.getElementById('clickable_image').onclick = function(){
-        sound.currentTime = 0;
-        sound.play();
-    }
-
     document.getElementById('left_button').addEventListener('click', () => {
         console.log('left_button');
-        window.location.href = 'Filmmaker6.html'
+        window.location.href = 'Heather1.html';
     });
     document.getElementById('right_button').addEventListener('click', () => {
         console.log('right_button');
-        window.location.href = 'Filmmaker8.html';
+        window.location.href = 'Heather3.html'
     })
 </script>
-<script src="/java_script/indiv_filmakers.js"></script>
+<!--for the nav section for indivual people-->
 <script src="/java_script/navigation_to_leave_2_directories.js"></script>
-
+<script src="/java_script/indiv_filmakers.js"></script>
 </body>
 </html>

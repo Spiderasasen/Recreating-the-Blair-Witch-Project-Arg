@@ -4,13 +4,13 @@ const michael = document.getElementById("michael");
 
 heather.addEventListener("click", () => {
     console.log("heather clicked");
-    window.location.href = '/filmmakers_sections/Heather/Heather1.html';
+    window.location.href = '../../inividual_filmmakers/Heather/Heather1.html';
 })
 josh.addEventListener("click", () => {
     console.log("josh clicked");
-    window.location.href = '/filmmakers_sections/Josh/Josh1.html';
+    window.location.href = '../../inividual_filmmakers/Josh/Josh1.html';
 })
 michael.addEventListener("click", () => {
     console.log("michael clicked");
-    window.location.href = 'filmmakers_sections/Michael/Michael1.html';
+    window.location.href = '../../inividual_filmmakers/Michael/Michael1.html';
 })
