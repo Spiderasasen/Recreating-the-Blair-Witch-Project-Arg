@@ -4,22 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather">
-      <change afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmaker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/Heather/Heather1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker10.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker11.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker3.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker4.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker5.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker6.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker7.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker8.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker9.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_script/indiv_filmakers.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/indiv_filmakers.js" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael">
+      <change afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -366,7 +354,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762702816145</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael">
+      <option name="closed" value="true" />
+      <created>1762704746730</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1762704746730</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +380,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="main page&#10;Created the main page look, now i need to add the animation from the start." />
     <MESSAGE value="main page&#10;fixed the transition part of the code" />
     <MESSAGE value="main page&#10;editing font" />
     <MESSAGE value="main page&#10;finishing the first thing of the project" />
@@ -409,6 +404,7 @@
     <MESSAGE value="Working on filmmaker&#10;made the main layout, now to add the other sections" />
     <MESSAGE value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
     <MESSAGE value="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather" />
+    <MESSAGE value="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael" />
   </component>
 </project>
