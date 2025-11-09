@@ -4,23 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on filmmaker&#10;made the main layout, now to add the other sections">
-      <change afterPath="$PROJECT_DIR$/css/video_code.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_script/video.js" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now.">
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker10.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/home_screen.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/home_screen.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/myth_sections_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/myth_sections_main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmaker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr10.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr10.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,27 +53,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Blair3.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.Coffin2.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.myth.html.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;working-on-filmmaker&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Blair3.html.executor": "Debug",
+    "JavaScript Debug.Coffin2.html.executor": "Debug",
+    "JavaScript Debug.Filmmaker9.html.executor": "Debug",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "JavaScript Debug.myth.html.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "working-on-filmmaker",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\filmmakers_sections\main_film" />
@@ -122,7 +109,8 @@
       <workItem from="1762346475487" duration="1706000" />
       <workItem from="1762362809212" duration="2473000" />
       <workItem from="1762434022725" duration="3728000" />
-      <workItem from="1762615003500" duration="2018000" />
+      <workItem from="1762615003500" duration="2237000" />
+      <workItem from="1762701158819" duration="396000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -348,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762434770636</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now.">
+      <option name="closed" value="true" />
+      <created>1762617223202</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1762617223202</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +362,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="making the first bit of contact of the website. with a bit of a basic layout of it" />
     <MESSAGE value="Im creating the main page, before the animations to see how the page will look like" />
     <MESSAGE value="main page&#10;Created the main page look, now i need to add the animation from the start." />
     <MESSAGE value="main page&#10;fixed the transition part of the code" />
@@ -391,6 +386,7 @@
     <MESSAGE value="i created the recreation section of the code. its not done. not at all. but it has a basic bone structre to fallow.&#10;I might ask wills and kay if they can help me create a kinda fallow up story for the blair witch just so we can scare our professor more&#10;but the thank you email, if im lucky, will be sent out around the end of the month. where each student will send me a bout a paragrah in length just thanking the teacher for the class. and if we can, ill find a way to add a class picture for us. this is a xmas present so i need to make it scary but not tooooooo scary" />
     <MESSAGE value="Working on filmmaker&#10;creating the main sections" />
     <MESSAGE value="Working on filmmaker&#10;made the main layout, now to add the other sections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on filmmaker&#10;made the main layout, now to add the other sections" />
+    <MESSAGE value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
   </component>
 </project>
