@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now.">
-      <change afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/filmmakers_sections/Heather/Heather1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_script/indiv_filmakers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filmmaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmaker.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +19,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -64,7 +66,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "working-on-filmmaker",
+    "git-widget-placeholder": "Working-on-Heather",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
