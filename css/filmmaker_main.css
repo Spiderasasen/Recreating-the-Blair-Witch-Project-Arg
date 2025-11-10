@@ -7,3 +7,21 @@ img.center_img_title{
 .mini_width_custom{
     width: 10%;
 }
+div.image_container{
+    display:flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    gap: 25px
+}
+/*for text underneath 1 image at a time*/
+.grid_container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /*gap: 20px;*/
+    max-width: 800px;
+    margin: 0 auto;
+}
+.grid_container > div{
+    text-align: center;
+}

@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael">
-      <change afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Started working on Heather section&#10;I worked on this section for an hour and i was still about to cry even though its just the css section">
+      <change afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/filmmaker_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/filmmaker_main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,28 +57,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Blair3.html.executor": "Debug",
-    "JavaScript Debug.Coffin2.html.executor": "Debug",
-    "JavaScript Debug.Filmmaker9.html.executor": "Debug",
-    "JavaScript Debug.index.html.executor": "Debug",
-    "JavaScript Debug.myth.html.executor": "Debug",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Working-on-Heather",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Blair3.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.Coffin2.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.Filmmaker9.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.myth.html.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;Working-on-Heather&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\inividual_filmmakers" />
@@ -113,6 +116,7 @@
       <workItem from="1762434022725" duration="3728000" />
       <workItem from="1762615003500" duration="2237000" />
       <workItem from="1762701158819" duration="396000" />
+      <workItem from="1762779816295" duration="1588000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -362,7 +366,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762704746730</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Started working on Heather section&#10;I worked on this section for an hour and i was still about to cry even though its just the css section">
+      <option name="closed" value="true" />
+      <created>1762705357089</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1762705357089</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -380,7 +392,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="main page&#10;fixed the transition part of the code" />
     <MESSAGE value="main page&#10;editing font" />
     <MESSAGE value="main page&#10;finishing the first thing of the project" />
     <MESSAGE value="Working on myth screen&#10;finally finishing the code&#10;adding the links with the respected color" />
@@ -405,6 +416,7 @@
     <MESSAGE value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
     <MESSAGE value="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather" />
     <MESSAGE value="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael" />
-    <option name="LAST_COMMIT_MESSAGE" value="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael" />
+    <MESSAGE value="Started working on Heather section&#10;I worked on this section for an hour and i was still about to cry even though its just the css section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Started working on Heather section&#10;I worked on this section for an hour and i was still about to cry even though its just the css section" />
   </component>
 </project>
