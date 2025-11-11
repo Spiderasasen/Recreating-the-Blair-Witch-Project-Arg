@@ -4,11 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Started working on Heather section and finsihed both Josh and Heather sections&#10;Yeah i was soppused to only do Heather in this branch, but its fine. i dont mind also working on Josh.&#10;Hey less work for me">
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Recreation&#10;fixed the js a bit to make it show a type of hint">
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/the_devolper.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_3700/Thank_you_letter.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_script/buttons_for_recreation.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/buttons_for_recreation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recreation.html" beforeDir="false" afterPath="$PROJECT_DIR$/recreation.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -381,7 +381,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762781596763</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Recreation&#10;fixed the js a bit to make it show a type of hint">
+      <option name="closed" value="true" />
+      <created>1762882921798</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1762882921798</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +407,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Working on myth screen&#10;finally finishing the code&#10;adding the links with the respected color" />
     <MESSAGE value="Creating the other screens&#10;i added more assets to the screen.&#10;I only added audio right now. but it will be better" />
     <MESSAGE value="Creating the other screens&#10;creating the main code for Kedward1.html&#10;its going to be the main layout for most of these other screens." />
     <MESSAGE value="Creating the other screens&#10;finishing up the screen just adding some audio files" />
@@ -424,6 +431,7 @@
     <MESSAGE value="Started working on Heather section&#10;I worked on this section for an hour and i was still about to cry even though its just the css section" />
     <MESSAGE value="Started working on Heather section&#10;commit before stats class&#10;Learned a bit for the new system, which is grid. its intersting how much i learned about html and css from this project. makes me want to make more projects like this now" />
     <MESSAGE value="Micheal&#10;Ive finished all the invidual sections. to be honest this wasnt to bad on the creation. well you made it 2 times and all the differnt sections on how you want it to be created is already there. so its mainly just copy and paste." />
-    <option name="LAST_COMMIT_MESSAGE" value="Micheal&#10;Ive finished all the invidual sections. to be honest this wasnt to bad on the creation. well you made it 2 times and all the differnt sections on how you want it to be created is already there. so its mainly just copy and paste." />
+    <MESSAGE value="Recreation&#10;fixed the js a bit to make it show a type of hint" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recreation&#10;fixed the js a bit to make it show a type of hint" />
   </component>
 </project>

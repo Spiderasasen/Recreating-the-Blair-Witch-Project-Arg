@@ -23,9 +23,11 @@ submitButton.addEventListener('click', () =>{
     console.log("submit button clicked");
     if (input.value === "1999"){
         console.log("password 1 unlocked, talking about the recreation of the page and the maybe play the part more");
+        window.location.href = '/Recreation/password_1999/the_devolper.html';
     }
     else if (input.value === "3700"){
         console.log("Password 2 unlocked, a thank you note for our professor")
+        window.location.href = '/Recreation/password_3700/Thank_you_letter.html';
     }
     else{
         console.log('this is just wrong');
