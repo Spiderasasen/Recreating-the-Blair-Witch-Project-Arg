@@ -19,6 +19,7 @@ clearButton.addEventListener('click', () =>{
 
 //for the submit button
 submitButton.addEventListener('click', () =>{
+    document.getElementById('myDiv').innerHTML = '';
     console.log("submit button clicked");
     if (input.value === "1999"){
         console.log("password 1 unlocked, talking about the recreation of the page and the maybe play the part more");
@@ -27,6 +28,8 @@ submitButton.addEventListener('click', () =>{
         console.log("Password 2 unlocked, a thank you note for our professor")
     }
     else{
-        console.log('this is just wrong')
+        console.log('this is just wrong');
+        document.getElementById('myDiv').innerHTML = '<p style="color: red;" class="center_text">Wrong Password; What year was the film released?</p>';
     }
+    input.value = "";
 })

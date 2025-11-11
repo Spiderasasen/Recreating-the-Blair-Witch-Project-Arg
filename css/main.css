@@ -7,7 +7,7 @@ p, h1, h2, h3, h4, h5, h6{
 
 @font-face {
     font-family: 'MyMedievalFont';
-    src: url('assests/Le Mano.ttf') format('truetype');
+    src: url('assests/Le Mano-Bold.ttf') format('truetype');
 }
 .font_static{
     font-family: 'MyMedievalFont', serif;
