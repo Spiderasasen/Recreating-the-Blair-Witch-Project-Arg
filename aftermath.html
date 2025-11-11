@@ -3,9 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <title>Aftermath</title>
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+    <link rel="stylesheet" href="css/aftermath_main.css" type="text/css">
 </head>
 <body>
+<!--main title section-->
+    <div>
+        <hr class="blank">
+        <img id="aftermath" class="center_img_title" alt="title card saying 'aftermath'" src="https://web.archive.org/web/20200424044543im_/https://www.blairwitch.com/project/afterhead.gif">
+        <hr class="blank">
+        <div class="font_container">
+            <p class="font mini_width_custom" id="evidence">Evidence</p>
+            <p class="font mini_width_custom" id="search">Search</p>
+            <p class="font mini_width_custom" id="interview">Interview</p>
+            <p class="font mini_width_custom" id="news">News</p>
+        </div>
+    </div>
 
-<p>UNDER CONSTRUCTION</p>
+<!--main section buttons-->
+    <div class="font_container">
+        <p class="font mini_width" id="home">Home</p>
+        <p class="font mini_width" id="myth">Mythology</p>
+        <p class="font mini_width" id="filmmakers">Filmmakers</p>
+        <p class="font mini_width" id="legacy">Legacy</p>
+        <p class="font mini_width" id="recreation">Recreation</p>
+    </div>
+
+<!--js files-->
+<script src="java_script/navigation.js"></script>
+<!--only working on this single code-->
+<script>
+    const evidence = document.getElementById("evidence");
+    const search = document.getElementById("search");
+    const interview = document.getElementById("interview");
+    const news = document.getElementById("news");
+
+    //navigating to all the first sections of the code
+    evidence.addEventListener("click", () => {
+        console.log('going to aftermath');
+        window.location.href = 'aftermath.html';
+    });
+    search.addEventListener("click", () => {
+        console.log('going to search');
+    });
+    interview.addEventListener("click", () => {
+        console.log('going to interview');
+    });
+    news.addEventListener("click", () => {
+        console.log('going to news');
+    });
+</script>
 </body>
 </html>
