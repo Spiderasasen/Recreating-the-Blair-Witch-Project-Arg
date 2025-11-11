@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Michael Williams</title>
+    <link rel="stylesheet" href="/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/css/filmmaker_main.css" type="text/css">
+</head>
+<body>
+<!--main title section-->
+<div>
+    <hr class="blank">
+    <img alt="Filmmaker title" id="filmmakers" class="center_img_title" src="https://web.archive.org/web/20210402102741im_/https://www.blairwitch.com/project/filmhead.gif">
+    <hr class="blank">
+    <div class="font_container">
+        <p id="heather" class="font mini_width_custom">Heather Donahue</p>
+        <p id="josh" class="font mini_width_custom">Joshua Leonard</p>
+        <p id="michael" class="font mini_width_custom">Michael Williams</p>
+    </div>
+</div>
+
+<!--noramal changing code-->
+<div>
+    <hr class="blank">
+    <img alt="an image of the filmmakers" class="center_img" src="https://web.archive.org/web/20180825050146im_/http://www.blairwitch.com/project/mike3.gif">
+    <div class="text_container_custom">
+        <p>Leaving his parents' home on Day 1 of the Blair Witch shoot.</p>
+    </div>
+</div>
+
+<!--navigation buttons-->
+<hr class="blank">
+<div class="button_container">
+    <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+    <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+</div>
+
+<!--    original navigation buttons-->
+<hr class="blank">
+<div class="font_container">
+    <p class="font mini_width_custom" id="home">Home</p>
+    <p class="font mini_width_custom" id="myth">Mythology</p>
+    <p class="font mini_width_custom" id="legacy">Legacy</p>
+    <p class="font mini_width_custom" id="aftermath">Aftermath</p>
+    <p class="font mini_width_custom" id="recreation">Recreation</p>
+</div>
+
+<!--    js links-->
+<script>
+    document.getElementById('left_button').addEventListener('click', () => {
+        console.log('left_button');
+        window.location.href = 'Michael2.html'
+    });
+    document.getElementById('right_button').addEventListener('click', () => {
+        console.log('right_button');
+        window.location.href = 'Michael4.html';
+    })
+</script>
+<!--for the nav section for indivual people-->
+<script src="/java_script/navigation_to_leave_2_directories.js"></script>
+<script src="/java_script/indiv_filmakers.js"></script>
+</body>
+</html>
