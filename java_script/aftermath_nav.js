@@ -10,6 +10,7 @@ evidence.addEventListener("click", () => {
 });
 search.addEventListener("click", () => {
     console.log('going to search');
+    window.location.href = '../../Aftermath_sections/Search/search1.html';
 });
 interview.addEventListener("click", () => {
     console.log('going to interview');
