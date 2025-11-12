@@ -14,6 +14,7 @@ search.addEventListener("click", () => {
 });
 interview.addEventListener("click", () => {
     console.log('going to interview');
+    window.location.href = '../../Aftermath_sections/Interview/interview1.html';
 });
 news.addEventListener("click", () => {
     console.log('going to news');
