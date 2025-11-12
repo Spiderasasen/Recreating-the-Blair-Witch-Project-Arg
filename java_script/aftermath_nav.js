@@ -6,7 +6,7 @@ const news = document.getElementById("news");
 //navigating to all the first sections of the code
 evidence.addEventListener("click", () => {
     console.log('going to aftermath');
-    window.location.href = '/aftermath.html';
+    window.location.href = '../../aftermath.html';
 });
 search.addEventListener("click", () => {
     console.log('going to search');

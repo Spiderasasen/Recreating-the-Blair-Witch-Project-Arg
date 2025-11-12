@@ -6,3 +6,13 @@ img.center_img_title{
 .mini_width_custom{
     width: 10%;
 }
+div.image_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+hr.mini_blink{
+    border: none;
+    height: 5px;
+}

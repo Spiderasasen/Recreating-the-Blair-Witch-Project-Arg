@@ -20,6 +20,30 @@
         </div>
     </div>
 
+<!--main to do things-->
+    <div>
+        <div class="image_container">
+            <img alt="evidence, the car" src="https://web.archive.org/web/20200424044543im_/https://www.blairwitch.com/project/car_inside_back_wide.gif">
+            <img alt="evidence, the car" src="https://web.archive.org/web/20200424044543im_/https://www.blairwitch.com/project/car_inside_left.gif">
+        </div>
+        <hr class="mini_blink">
+        <div class="image_container">
+            <img alt="evidence, the car" src="https://web.archive.org/web/20200424044543im_/https://www.blairwitch.com/project/car_inside_right.gif">
+            <img alt="evidence, the car" src="https://web.archive.org/web/20200424044543im_/https://www.blairwitch.com/project/car_left.gif">
+        </div>
+        <hr class="blank">
+        <div class="text_container_custom">
+            <p>Joshua Leonard's car. Discovered by police on Black Rock Road, October 25, 1994.</p>
+        </div>
+    </div>
+
+    <!--navigation buttons-->
+    <hr class="blank">
+    <div class="button_container">
+        <img class="starting_empty" id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+        <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+    </div>
+
 <!--main section buttons-->
     <div class="font_container">
         <p class="font mini_width" id="home">Home</p>
@@ -31,6 +55,16 @@
 
 <!--js files-->
 <script src="java_script/navigation.js"></script>
+<!--creating the navigation buttons-->
+<script>
+    document.getElementById("left_button").addEventListener("click", function() {
+        console.log("left_button");
+    });
+    document.getElementById("right_button").addEventListener("click", function() {
+        console.log("right_button");
+        window.location.href = 'Aftermath_sections/Evidence/evidence1.html'
+    });
+</script>
 <!--only working on this single code-->
 <script>
     const evidence = document.getElementById("evidence");
