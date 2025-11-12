@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aftermath Search</title>
+    <link rel="stylesheet" href="/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/css/aftermath_main.css" type="text/css">
+</head>
+<body>
+<!--main title section-->
+<div>
+    <hr class="blank">
+    <img id="aftermath" class="center_img_title" alt="title card saying 'aftermath'" src="https://web.archive.org/web/20200424044543im_/https://www.blairwitch.com/project/afterhead.gif">
+    <hr class="blank">
+    <div class="font_container">
+        <p class="font mini_width_custom" id="evidence">Evidence</p>
+        <p class="font mini_width_custom" id="search">Search</p>
+        <p class="font mini_width_custom" id="interview">Interview</p>
+        <p class="font mini_width_custom" id="news">News</p>
+    </div>
+</div>
+
+
+<div>
+    <hr class="blank">
+    <img id="clickable_image" alt="image of Ron Cravens" class="center_img" src="https://web.archive.org/web/20180825050216im_/http://www.blairwitch.com/project/sheriff.gif">
+    <div class="text_container_custom">
+        <p>Sheriff Ron Cravens, who headed the local investigation of the missing filmmakers. Sheriff Cravens publicly expressed the opinion that the footage was a hoax.</p>
+    </div>
+</div>
+
+<!--navigation buttons-->
+<hr class="blank">
+<div class="button_container">
+    <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+    <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+</div>
+
+<!--main section buttons-->
+<div class="font_container">
+    <p class="font mini_width" id="home">Home</p>
+    <p class="font mini_width" id="myth">Mythology</p>
+    <p class="font mini_width" id="filmmakers">Filmmakers</p>
+    <p class="font mini_width" id="legacy">Legacy</p>
+    <p class="font mini_width" id="recreation">Recreation</p>
+</div>
+<script>
+    document.getElementById('clickable_image').addEventListener('click', function(){
+        alert("Audio Unknown")
+    })
+    document.getElementById("left_button").addEventListener("click", () => {
+        console.log("left_button");
+        window.location.href = 'search6.html'
+    })
+    document.getElementById("right_button").addEventListener("click", () => {
+        console.log("right_button");
+        window.location.href = 'search8.html'
+    })
+</script>
+
+<!--javascript-->
+<script src="/java_script/navigation_to_leave_2_directories.js"></script>
+<script src="/java_script/aftermath_nav.js"></script>
+</body>
+</html>

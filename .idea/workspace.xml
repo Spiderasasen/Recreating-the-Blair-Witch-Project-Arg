@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Aftermath&#10;Evidence is done.&#10;will start on the other sections of the aftermath">
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search2.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Aftermath&#10;working on search&#10;its just so cool adding maps to the missing persons poster.&#10;at this point im starting to figure out that instead of just working on and only relaying on &quot;/&quot; to actaully move back via the directory, so &quot;../../&quot;">
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aftermath.html" beforeDir="false" afterPath="$PROJECT_DIR$/aftermath.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_script/aftermath_nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/aftermath_nav.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +120,7 @@
       <workItem from="1762701158819" duration="396000" />
       <workItem from="1762779816295" duration="4240000" />
       <workItem from="1762865653199" duration="2434000" />
-      <workItem from="1762905893968" duration="4650000" />
+      <workItem from="1762905893968" duration="6064000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -416,7 +418,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762909672271</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Aftermath&#10;working on search&#10;its just so cool adding maps to the missing persons poster.&#10;at this point im starting to figure out that instead of just working on and only relaying on &quot;/&quot; to actaully move back via the directory, so &quot;../../&quot;">
+      <option name="closed" value="true" />
+      <created>1762910796402</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1762910796402</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -434,7 +444,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the other screens&#10;finished kedward2" />
     <MESSAGE value="Creating the other screens&#10;finished Book1.html" />
     <MESSAGE value="Creating the other screens&#10;finished Book2.html" />
     <MESSAGE value="Creating the other screens&#10;finished Book4.html" />
@@ -459,6 +468,7 @@
     <MESSAGE value="Aftermath&#10;I did the basic navigation section of the code. I also made the basic layout of the code." />
     <MESSAGE value="Aftermath&#10;fixed some navigation issues. made some video code, and audio again. Feeling like there is going to be more of that in the future but i also have an idea for some later code" />
     <MESSAGE value="Aftermath&#10;Evidence is done.&#10;will start on the other sections of the aftermath" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aftermath&#10;Evidence is done.&#10;will start on the other sections of the aftermath" />
+    <MESSAGE value="Aftermath&#10;working on search&#10;its just so cool adding maps to the missing persons poster.&#10;at this point im starting to figure out that instead of just working on and only relaying on &quot;/&quot; to actaully move back via the directory, so &quot;../../&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aftermath&#10;working on search&#10;its just so cool adding maps to the missing persons poster.&#10;at this point im starting to figure out that instead of just working on and only relaying on &quot;/&quot; to actaully move back via the directory, so &quot;../../&quot;" />
   </component>
 </project>
