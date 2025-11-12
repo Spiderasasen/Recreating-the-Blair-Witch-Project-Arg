@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Aftermath&#10;I did the basic navigation section of the code. I also made the basic layout of the code.">
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aftermath.html" beforeDir="false" afterPath="$PROJECT_DIR$/aftermath.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/aftermath_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/aftermath_main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_script/aftermath_nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/aftermath_nav.js" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Aftermath&#10;fixed some navigation issues. made some video code, and audio again. Feeling like there is going to be more of that in the future but i also have an idea for some later code">
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +114,7 @@
       <workItem from="1762701158819" duration="396000" />
       <workItem from="1762779816295" duration="4240000" />
       <workItem from="1762865653199" duration="2434000" />
-      <workItem from="1762905893968" duration="2867000" />
+      <workItem from="1762905893968" duration="3608000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -403,7 +396,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762885107650</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Aftermath&#10;fixed some navigation issues. made some video code, and audio again. Feeling like there is going to be more of that in the future but i also have an idea for some later code">
+      <option name="closed" value="true" />
+      <created>1762908836056</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1762908836056</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +422,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the other screens&#10;creating the main code for Kedward1.html&#10;its going to be the main layout for most of these other screens." />
     <MESSAGE value="Creating the other screens&#10;finishing up the screen just adding some audio files" />
     <MESSAGE value="Creating the other screens&#10;finished kedward2" />
     <MESSAGE value="Creating the other screens&#10;finished Book1.html" />
@@ -446,6 +446,7 @@
     <MESSAGE value="Micheal&#10;Ive finished all the invidual sections. to be honest this wasnt to bad on the creation. well you made it 2 times and all the differnt sections on how you want it to be created is already there. so its mainly just copy and paste." />
     <MESSAGE value="Recreation&#10;fixed the js a bit to make it show a type of hint" />
     <MESSAGE value="Aftermath&#10;I did the basic navigation section of the code. I also made the basic layout of the code." />
-    <option name="LAST_COMMIT_MESSAGE" value="Aftermath&#10;I did the basic navigation section of the code. I also made the basic layout of the code." />
+    <MESSAGE value="Aftermath&#10;fixed some navigation issues. made some video code, and audio again. Feeling like there is going to be more of that in the future but i also have an idea for some later code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aftermath&#10;fixed some navigation issues. made some video code, and audio again. Feeling like there is going to be more of that in the future but i also have an idea for some later code" />
   </component>
 </project>
