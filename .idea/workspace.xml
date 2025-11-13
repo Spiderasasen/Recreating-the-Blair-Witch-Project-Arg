@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Finishing aftermath&#10;starting on interview section.&#10;from the looks of the first page, its going to be a lot of audio sections.&#10;if we are lucky we might get some video too.">
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview5.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Finishing aftermath&#10;working on interview section&#10;Its just been one lad most of the time. like interview2 - interview5 have been one dude. I hope we actually get a video. to make the more interseting then just only audio">
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aftermath.html" beforeDir="false" afterPath="$PROJECT_DIR$/aftermath.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_script/aftermath_nav.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/aftermath_nav.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,29 +55,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Blair3.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.Coffin2.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.Filmmaker9.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.aftermath.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.myth.html.executor&quot;: &quot;Debug&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;finishing-the-aftermath-section&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Blair3.html.executor": "Debug",
+    "JavaScript Debug.Coffin2.html.executor": "Debug",
+    "JavaScript Debug.Filmmaker9.html.executor": "Debug",
+    "JavaScript Debug.aftermath.html.executor": "Debug",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "JavaScript Debug.interview5.html.executor": "Debug",
+    "JavaScript Debug.myth.html.executor": "Debug",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "finishing-the-aftermath-section",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\inividual_filmmakers" />
@@ -122,7 +119,8 @@
       <workItem from="1762779816295" duration="4240000" />
       <workItem from="1762865653199" duration="2434000" />
       <workItem from="1762905893968" duration="6064000" />
-      <workItem from="1762952693768" duration="1897000" />
+      <workItem from="1762952693768" duration="1980000" />
+      <workItem from="1763046329014" duration="1367000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -436,7 +434,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762912291693</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Finishing aftermath&#10;working on interview section&#10;Its just been one lad most of the time. like interview2 - interview5 have been one dude. I hope we actually get a video. to make the more interseting then just only audio">
+      <option name="closed" value="true" />
+      <created>1762954681433</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1762954681433</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -454,7 +460,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the other screens&#10;finished Book2.html" />
     <MESSAGE value="Creating the other screens&#10;finished Book4.html" />
     <MESSAGE value="Creating the other screens&#10;finished Book5.html" />
     <MESSAGE value="Creating the other screens&#10;finished the book path, now i got to work on the town. I also added &quot;Mythology &lt;Type&gt;&quot; into the head of the web page, makes it look nice in my opion" />
@@ -479,6 +484,7 @@
     <MESSAGE value="Aftermath&#10;Evidence is done.&#10;will start on the other sections of the aftermath" />
     <MESSAGE value="Aftermath&#10;working on search&#10;its just so cool adding maps to the missing persons poster.&#10;at this point im starting to figure out that instead of just working on and only relaying on &quot;/&quot; to actaully move back via the directory, so &quot;../../&quot;" />
     <MESSAGE value="Finishing aftermath&#10;starting on interview section.&#10;from the looks of the first page, its going to be a lot of audio sections.&#10;if we are lucky we might get some video too." />
-    <option name="LAST_COMMIT_MESSAGE" value="Finishing aftermath&#10;starting on interview section.&#10;from the looks of the first page, its going to be a lot of audio sections.&#10;if we are lucky we might get some video too." />
+    <MESSAGE value="Finishing aftermath&#10;working on interview section&#10;Its just been one lad most of the time. like interview2 - interview5 have been one dude. I hope we actually get a video. to make the more interseting then just only audio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finishing aftermath&#10;working on interview section&#10;Its just been one lad most of the time. like interview2 - interview5 have been one dude. I hope we actually get a video. to make the more interseting then just only audio" />
   </component>
 </project>
