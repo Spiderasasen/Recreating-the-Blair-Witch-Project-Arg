@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aftermath Interview</title>
+    <link rel="stylesheet" href="/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/css/aftermath_main.css" type="text/css">
+</head>
+<body>
+<!--main title section-->
+<div>
+    <hr class="blank">
+    <img id="aftermath" class="center_img_title" alt="title card saying 'aftermath'" src="https://web.archive.org/web/20200424044543im_/https://www.blairwitch.com/project/afterhead.gif">
+    <hr class="blank">
+    <div class="font_container">
+        <p class="font mini_width_custom" id="evidence">Evidence</p>
+        <p class="font mini_width_custom" id="search">Search</p>
+        <p class="font mini_width_custom" id="interview">Interview</p>
+        <p class="font mini_width_custom" id="news">News</p>
+    </div>
+</div>
+
+<!--main to do things-->
+<div>
+    <hr class="blank">
+    <img id="clickable_image" alt="image of Ron Cravens" class="center_img" src="https://web.archive.org/web/20180825050226im_/http://www.blairwitch.com/project/cravens3.gif">
+    <hr class="blank">
+    <div class="text_container_custom">
+        <p>Sheriff Ron Cravens discusses his impressions after viewing the students' footage.</p>
+    </div>
+</div>
+
+<!--navigation buttons-->
+<hr class="blank">
+<div class="button_container">
+    <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+    <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+</div>
+
+<!--main section buttons-->
+<div class="font_container">
+    <p class="font mini_width" id="home">Home</p>
+    <p class="font mini_width" id="myth">Mythology</p>
+    <p class="font mini_width" id="filmmakers">Filmmakers</p>
+    <p class="font mini_width" id="legacy">Legacy</p>
+    <p class="font mini_width" id="recreation">Recreation</p>
+</div>
+
+<!--js files-->
+<script src="/java_script/navigation_to_leave_2_directories.js"></script>
+<!--creating the navigation buttons-->
+<script>
+    const sound = new Audio('/assests/audio/cravens1.mp3');
+
+    document.getElementById('clickable_image').addEventListener('click', () => {
+        sound.currentTime = 0;
+        sound.play();
+    })
+
+    document.getElementById("left_button").addEventListener("click", function() {
+        console.log("left_button");
+        window.location.href = 'interview9.html';
+    });
+    document.getElementById("right_button").addEventListener("click", function() {
+        console.log("right_button");
+        window.location.href = 'interview11.html';
+    });
+</script>
+<script src="/java_script/aftermath_nav.js"></script>
+</body>
+</html>
