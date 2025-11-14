@@ -18,4 +18,5 @@ interview.addEventListener("click", () => {
 });
 news.addEventListener("click", () => {
     console.log('going to news');
+    window.location.href = '../../Aftermath_sections/News/news1.html';
 });
