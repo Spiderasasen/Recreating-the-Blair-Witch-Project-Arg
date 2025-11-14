@@ -5,7 +5,6 @@
     <title>Aftermath Interview</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
     <link rel="stylesheet" href="/css/aftermath_main.css" type="text/css">
-    <link rel="stylesheet" href="/css/video_code.css" type="text/css">
 </head>
 <body>
 <!--main title section-->
@@ -24,13 +23,10 @@
 <!--main to do things-->
 <div>
     <hr class="blank">
-    <div class="video_overlay_container">
-        <img alt="image of Cecilia Decassan" class="clickable-image" src="https://web.archive.org/web/20180825050228im_/http://www.blairwitch.com/project/friend1.gif">
-        <video id="overlayVideo" width="640" height="360" style="display:none; position:absolute; yop:0; left:0; cursor:pointer;" controls><source src="/assests/Video/friend2.mp4"/>Your browser does not support this video</video>
-    </div>
+    <img id="clickable_image" alt="image of Ron Cravens" class="center_img" src="https://web.archive.org/web/20180825050235im_/http://www.blairwitch.com/project/cravens1.gif">
     <hr class="blank">
     <div class="text_container_custom">
-        <p>Burkittsville local Cecilia Decassan discusses her feelings following the students' disappearance.</p>
+        <p>Burkittsville Sheriff Ron Cravens describes how he had to ask state and federal authorities for assistance.</p>
     </div>
 </div>
 
@@ -38,7 +34,7 @@
 <hr class="blank">
 <div class="button_container">
     <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
-    <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+    <img class="starting_empty" id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
 </div>
 
 <!--main section buttons-->
@@ -54,16 +50,21 @@
 <script src="/java_script/navigation_to_leave_2_directories.js"></script>
 <!--creating the navigation buttons-->
 <script>
+    const sound = new Audio('/assests/audio/cravens2.mp3');
+
+    document.getElementById('clickable_image').addEventListener('click', () => {
+        sound.currentTime = 0;
+        sound.play();
+    })
+
     document.getElementById("left_button").addEventListener("click", function() {
         console.log("left_button");
-        window.location.href = 'interview11.html';
+        window.location.href = 'interview16.html';
     });
     document.getElementById("right_button").addEventListener("click", function() {
         console.log("right_button");
-        window.location.href = 'interview13.html';
     });
 </script>
 <script src="/java_script/aftermath_nav.js"></script>
-<script src="/java_script/video.js"></script>
 </body>
 </html>

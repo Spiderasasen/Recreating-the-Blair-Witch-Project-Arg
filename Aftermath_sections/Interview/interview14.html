@@ -5,7 +5,6 @@
     <title>Aftermath Interview</title>
     <link rel="stylesheet" href="/css/main.css" type="text/css">
     <link rel="stylesheet" href="/css/aftermath_main.css" type="text/css">
-    <link rel="stylesheet" href="/css/video_code.css" type="text/css">
 </head>
 <body>
 <!--main title section-->
@@ -24,13 +23,10 @@
 <!--main to do things-->
 <div>
     <hr class="blank">
-    <div class="video_overlay_container">
-        <img alt="image of Cecilia Decassan" class="clickable-image" src="https://web.archive.org/web/20180825050228im_/http://www.blairwitch.com/project/friend1.gif">
-        <video id="overlayVideo" width="640" height="360" style="display:none; position:absolute; yop:0; left:0; cursor:pointer;" controls><source src="/assests/Video/friend2.mp4"/>Your browser does not support this video</video>
-    </div>
+    <img id="clickable_image" alt="image of David Mercer" class="center_img" src="https://web.archive.org/web/20180825050231im_/http://www.blairwitch.com/project/mercer2.gif">
     <hr class="blank">
     <div class="text_container_custom">
-        <p>Burkittsville local Cecilia Decassan discusses her feelings following the students' disappearance.</p>
+        <p>Anthropology professor David Mercer discusses the discovery of the missing students' equipment.</p>
     </div>
 </div>
 
@@ -54,16 +50,22 @@
 <script src="/java_script/navigation_to_leave_2_directories.js"></script>
 <!--creating the navigation buttons-->
 <script>
+    const sound = new Audio('/assests/audio/mercer.mp3');
+
+    document.getElementById('clickable_image').addEventListener('click', () => {
+        sound.currentTime = 0;
+        sound.play();
+    })
+
     document.getElementById("left_button").addEventListener("click", function() {
         console.log("left_button");
-        window.location.href = 'interview11.html';
+        window.location.href = 'interview13.html';
     });
     document.getElementById("right_button").addEventListener("click", function() {
         console.log("right_button");
-        window.location.href = 'interview13.html';
+        window.location.href = 'interview15.html';
     });
 </script>
 <script src="/java_script/aftermath_nav.js"></script>
-<script src="/java_script/video.js"></script>
 </body>
 </html>

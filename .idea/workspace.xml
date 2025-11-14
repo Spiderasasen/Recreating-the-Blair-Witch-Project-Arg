@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Finishing aftermath&#10;working on interview section&#10;A video a grabbed. yay">
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview9.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Finishing aftermath&#10;finishing before my stats class, and we got some more video. YAY">
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview13.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview14.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview15.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview16.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview17.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview12.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +126,7 @@
       <workItem from="1762952693768" duration="1980000" />
       <workItem from="1763046329014" duration="1994000" />
       <workItem from="1763079894181" duration="1015000" />
-      <workItem from="1763124343944" duration="2324000" />
+      <workItem from="1763124343944" duration="4338000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -452,7 +456,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763048166281</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Finishing aftermath&#10;finishing before my stats class, and we got some more video. YAY">
+      <option name="closed" value="true" />
+      <created>1763127268106</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1763127268106</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -470,7 +482,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the other screens&#10;finished Book5.html" />
     <MESSAGE value="Creating the other screens&#10;finished the book path, now i got to work on the town. I also added &quot;Mythology &lt;Type&gt;&quot; into the head of the web page, makes it look nice in my opion" />
     <MESSAGE value="Creating the other screens&#10;finished all the sections of town. now going on to bliar, which i dont have the audio files for, so yay" />
     <MESSAGE value="Creating the other screens&#10;Made a clickable map, so im just commiting ot save my work" />
@@ -495,6 +506,7 @@
     <MESSAGE value="Finishing aftermath&#10;starting on interview section.&#10;from the looks of the first page, its going to be a lot of audio sections.&#10;if we are lucky we might get some video too." />
     <MESSAGE value="Finishing aftermath&#10;working on interview section&#10;Its just been one lad most of the time. like interview2 - interview5 have been one dude. I hope we actually get a video. to make the more interseting then just only audio" />
     <MESSAGE value="Finishing aftermath&#10;working on interview section&#10;A video a grabbed. yay" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finishing aftermath&#10;working on interview section&#10;A video a grabbed. yay" />
+    <MESSAGE value="Finishing aftermath&#10;finishing before my stats class, and we got some more video. YAY" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finishing aftermath&#10;finishing before my stats class, and we got some more video. YAY" />
   </component>
 </project>
