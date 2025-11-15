@@ -16,3 +16,20 @@ img.clickable-image{
     height: auto;
     cursor: pointer;
 }
+/*for overlaying more then 1 video code*/
+.video_overlay_container {
+    position: relative;
+    width: 100%;
+    max-width: 320px;
+    margin: 0 auto;
+}
+
+.overlay-video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: auto;
+    cursor: pointer;
+    z-index: 1;
+}

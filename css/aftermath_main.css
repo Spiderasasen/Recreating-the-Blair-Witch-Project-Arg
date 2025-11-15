@@ -16,3 +16,15 @@ hr.mini_blink{
     border: none;
     height: 5px;
 }
+
+/*for text underneath 1 image at a time*/
+.grid_container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    /*gap: 20px;*/
+    max-width: 800px;
+    margin: 0 auto;
+}
+.grid_container > div{
+    text-align: center;
+}
