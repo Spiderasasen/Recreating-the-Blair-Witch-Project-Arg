@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Finally getting the link working with the help of the of looking at the js code and seeing my fuckup">
-      <change afterPath="$PROJECT_DIR$/css/recration_1999.css" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Finally go some type of a story for this.&#10;we got a young dev how is happy that he found a the orginal website off the internet archives. and he wants to recreate it.">
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev5.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Recreation/password_1999/the_developer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Recreation/password_1999/the_developer.html" afterDir="false" />
     </list>
@@ -18,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -480,7 +483,23 @@
       <option name="project" value="LOCAL" />
       <updated>1763232750947</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Finally go some type of a story for this.&#10;we got a young dev how is happy that he found a the orginal website off the internet archives. and he wants to recreate it.">
+      <option name="closed" value="true" />
+      <created>1763237524551</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1763237524551</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Finally go some type of a story for this.&#10;we got a young dev how is happy that he found a the orginal website off the internet archives. and he wants to recreate it.">
+      <option name="closed" value="true" />
+      <created>1763237531422</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1763237531422</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -498,7 +517,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the other screens&#10;Made a clickable map, so im just commiting ot save my work" />
     <MESSAGE value="Creating the other screens&#10;finished tappy creek" />
     <MESSAGE value="Creating the other screens&#10;finished Coffin Rock&#10;Im starting to just hate the audio section more and more.&#10;Like its fun but fuck me m8, why so many audio files" />
     <MESSAGE value="Creating the other screens&#10;finished Rustin Parr&#10;Honstley, even though it had a lot of screen i had more fun, adding some of my unique elements like the video overlay and also the mapping of the newspaper. so yeah, good one" />
@@ -523,6 +541,7 @@
     <MESSAGE value="Finishing aftermath&#10;finishing before my stats class, and we got some more video. YAY" />
     <MESSAGE value="working on the news.&#10;im stoping now beacuse class is about to start, but i can tell you this. there is going to the use of both the grid system and also the video sections. i think. i really hope its just audio" />
     <MESSAGE value="Finally getting the link working with the help of the of looking at the js code and seeing my fuckup" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finally getting the link working with the help of the of looking at the js code and seeing my fuckup" />
+    <MESSAGE value="Finally go some type of a story for this.&#10;we got a young dev how is happy that he found a the orginal website off the internet archives. and he wants to recreate it." />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally go some type of a story for this.&#10;we got a young dev how is happy that he found a the orginal website off the internet archives. and he wants to recreate it." />
   </component>
 </project>

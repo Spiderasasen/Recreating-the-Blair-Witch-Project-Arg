@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Developer</title>
+    <link rel="stylesheet" href="/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/css/recration_1999.css" type="text/css">
+</head>
+<body>
+<div class="font_container">
+    <h1 class="font center_text" id="recreation">Recreation</h1>
+</div>
+<div>
+    <img class="custom_center_img" alt="Journal Entry of Developer" src="/assests/Notes/handwriting_20251115_163149_via_10015_io.jpg">
+    <hr class="blank">
+    <div class="text_container_custom">
+        <p>Journal entry of the developer of the recreation website</p>
+    </div>
+</div>
+
+
+<!--navigation buttons-->
+<hr class="blank">
+<div class="button_container">
+    <img id="left_button" alt="left button" src="https://web.archive.org/web/20191227230421im_/https://www.blairwitch.com/project/arrowleftoff.gif">
+    <img id="right_button" alt="right button" src="https://web.archive.org/web/20191225132401im_/https://www.blairwitch.com/project/arrowrightoff.gif">
+</div>
+
+<!--table to hold all the info-->
+<hr class="blank">
+<div class="font_container">
+    <p class="font center_text mini_width" id="home">Home</p>
+    <p class="font center_text mini_width" id="myth">Mythology</p>
+    <p class="font center_text mini_width" id="filmmakers">Filmmakers</p>
+    <p class="font center_text mini_width" id="aftermath">Aftermath</p>
+    <p class="font center_text mini_width" id="legacy">The Legacy</p>
+</div>
+
+<!--    js code-->
+<script>
+    document.getElementById('left_button').addEventListener('click', () => {
+        console.log('left_button');
+        window.location.href = "dev2.html"
+    })
+    document.getElementById('right_button').addEventListener('click', () => {
+        console.log('right_button');
+        window.location.href = "dev4.html"
+    })
+</script>
+<script src="/java_script/navigation_to_leave_2_directories.js"></script>
+</body>
+</html>
