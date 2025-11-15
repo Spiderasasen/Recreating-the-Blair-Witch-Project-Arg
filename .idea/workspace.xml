@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="working on the news.&#10;im stoping now beacuse class is about to start, but i can tell you this. there is going to the use of both the grid system and also the video sections. i think. i really hope its just audio">
-      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/the_developer.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Finally getting the link working with the help of the of looking at the js code and seeing my fuckup">
+      <change afterPath="$PROJECT_DIR$/css/recration_1999.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recreation/password_1999/the_devolper.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_script/buttons_for_recreation.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/buttons_for_recreation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Recreation/password_1999/the_developer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Recreation/password_1999/the_developer.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +17,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -65,6 +64,7 @@
     "JavaScript Debug.index.html.executor": "Debug",
     "JavaScript Debug.interview5.html.executor": "Debug",
     "JavaScript Debug.myth.html.executor": "Debug",
+    "JavaScript Debug.the_developer.html.executor": "Run",
     "JavaScript Debug.the_devolper.html.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -472,7 +472,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763140006865</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Finally getting the link working with the help of the of looking at the js code and seeing my fuckup">
+      <option name="closed" value="true" />
+      <created>1763232750947</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1763232750947</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +498,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the other screens&#10;finished all the sections of town. now going on to bliar, which i dont have the audio files for, so yay" />
     <MESSAGE value="Creating the other screens&#10;Made a clickable map, so im just commiting ot save my work" />
     <MESSAGE value="Creating the other screens&#10;finished tappy creek" />
     <MESSAGE value="Creating the other screens&#10;finished Coffin Rock&#10;Im starting to just hate the audio section more and more.&#10;Like its fun but fuck me m8, why so many audio files" />
@@ -515,6 +522,7 @@
     <MESSAGE value="Finishing aftermath&#10;working on interview section&#10;A video a grabbed. yay" />
     <MESSAGE value="Finishing aftermath&#10;finishing before my stats class, and we got some more video. YAY" />
     <MESSAGE value="working on the news.&#10;im stoping now beacuse class is about to start, but i can tell you this. there is going to the use of both the grid system and also the video sections. i think. i really hope its just audio" />
-    <option name="LAST_COMMIT_MESSAGE" value="working on the news.&#10;im stoping now beacuse class is about to start, but i can tell you this. there is going to the use of both the grid system and also the video sections. i think. i really hope its just audio" />
+    <MESSAGE value="Finally getting the link working with the help of the of looking at the js code and seeing my fuckup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finally getting the link working with the help of the of looking at the js code and seeing my fuckup" />
   </component>
 </project>
