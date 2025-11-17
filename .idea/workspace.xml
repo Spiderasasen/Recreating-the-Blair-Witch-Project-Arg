@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Finally go some type of a story for this.&#10;we got a young dev how is happy that he found a the orginal website off the internet archives. and he wants to recreate it.">
-      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/legacy_main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java_script/legacy_navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recreation/password_1999/the_developer.html" beforeDir="false" afterPath="$PROJECT_DIR$/Recreation/password_1999/the_developer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/legacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/legacy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,14 +18,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="finishing-the-aftermath-section" />
+    <option name="BRANCH" value="small_additions-to-creation" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -73,7 +71,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "small__additions-to-creation",
+    "git-widget-placeholder": "working-on-legacy",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",

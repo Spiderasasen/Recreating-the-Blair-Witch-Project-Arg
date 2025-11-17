@@ -3,9 +3,39 @@
 <head>
     <meta charset="UTF-8">
     <title>The Legacy</title>
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+    <link rel="stylesheet" href="css/legacy_main.css" type="text/css">
 </head>
 <body>
+    <div>
+        <img id="legacy" class="center_img" alt="legacy text" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/legacyhead.gif">
+        <div class="font_container">
+            <p class="font mini_width_custom" id="discovered">Discovered Footage</p>
+            <p class="font mini_width_custom" id="audios">Audio</p>
+            <p class="font mini_width_custom" id="journal">Heather's Journal</p>
+        </div>
+    </div>
+    <hr class="blank">
 
-<p>UNDER CONSTRUCTION</p>
+    <hr class="blank">
+    <!--main section buttons-->
+    <div class="font_container">
+        <p class="font mini_width" id="home">Home</p>
+        <p class="font mini_width" id="myth">Mythology</p>
+        <p class="font mini_width" id="filmmakers">Filmmakers</p>
+        <p class="font mini_width" id="aftermath">Aftermath</p>
+        <p class="font mini_width" id="recreation">Recreation</p>
+    </div>
+    <script src="java_script/navigation.js"></script>
+    <script>
+        const discovered = document.getElementById('discovered');
+        const audios = document.getElementById('audios');
+        const journal = document.getElementById('journal');
+
+        discovered.addEventListener("click", () => {
+            console.log("discovered clicked");
+            window.location.href = 'legacy.html';
+        });
+    </script>
 </body>
 </html>
