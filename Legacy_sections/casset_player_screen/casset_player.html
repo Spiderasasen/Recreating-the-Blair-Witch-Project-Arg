@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>VCR</title>
+    <link rel="stylesheet" href="/css/main.css" type="text/css">
+    <link rel="stylesheet" href="/css/legacy_main.css" type="text/css">
+    <style>
+        body {
+            margin: 0;
+            background: black;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .tv-container {
+            position: relative;
+            display: inline-block;
+        }
+
+        .tv-image {
+            display: block;
+            width: 100%;
+        }
+
+        .tv-video {
+            position: absolute;
+            top: 45px;     /* adjust to match screen position */
+            left: 67px;    /* adjust to match screen position */
+            width: 320px;   /* match screen size */
+            height: 200px;  /* match screen size */
+            object-fit: cover;
+            pointer-events: none;
+        }
+    </style>
+</head>
+<body>
+<div class="tv-container">
+    <img src="/assests/Black_screen.png" alt="Old VCR TV" class="tv-image">
+
+    <!-- Video overlay without hardcoded source -->
+    <video id="tv-video" class="tv-video" autoplay playsinline></video>
+    <div id="extra_notes" class="text_container_custom"></div>
+</div>
+
+<script>
+    const params = new URLSearchParams(window.location.search);
+    const videoId = params.get("video") || "1";
+    const video = document.getElementById("tv-video");
+
+    //if the video player has something else then it will be printed down there
+    if (videoId === "rocksfilm.mp4"){
+        document.getElementById("extra_notes").innerHTML = '<p>Bible reference to piles of rocks. Could Mary Brown have mentioned one of these?\n' +
+            '\n' +
+            '<strong>Nahum 1:6</strong>). \n' +
+            '\n' +
+            'Who can withstand his indignation? Who can endure his fierce anger? His wrath is poured out like fire; the rocks are shattered before him.\n' +
+            '\n' +
+            '<strong>1 Kings 19:11</strong>). \n' +
+            '\n' +
+            'The LORD said, "Go out and stand on the mountain in the presence of the LORD, for the LORD is about to pass by." Then a great and powerful wind tore the mountains apart and shattered the rocks before the LORD, but the LORD was not in the wind. After the wind there was an earthquake, but the LORD was not in the earthquake.\n</p>';
+    }
+
+    // Dynamically set video source
+    video.src = `/assests/Video/${videoId}`;
+    video.play();
+
+
+    // Redirect after video ends
+    video.addEventListener("ended", () => {
+        window.location.href = "../../legacy.html";
+    });
+
+    // Fallback redirect after 30 seconds
+    setTimeout(() => {
+        window.location.href = "../../legacy.html";
+    }, 30000);
+
+</script>
+</body>
+</html>

@@ -21,11 +21,11 @@
         <!--grid section-->
         <div class="grid_container">
             <div>
-                <img alt="image of different images" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/photofootage.jpg">
+                <img id="image1" alt="image of different images" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/photofootage.jpg">
                 <p>Twelve photos recently released by the Frederick County Sheriff's office.</p>
             </div>
             <div>
-                <img alt="image of different tapes" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/hi8med.gif">
+                <img alt="image of different tapes" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/hi8med.gif" usemap="#map">
                 <p>The ten H18 tapes found by students from the university of Maryland's Anthropology Department.</p>
             </div>
         </div>
@@ -33,7 +33,7 @@
         <div>
             <div class="image_container">
                 <img alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can_1.gif">
-                <img alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can2.gif">
+                <img id="image2" alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can2.gif">
                 <img alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can_3.gif">
             </div>
             <div class="text_container_custom">
@@ -41,6 +41,15 @@
             </div>
         </div>
     </div>
+
+    <!--map section-->
+    <map name="map">
+        <area alt="video 5" shape="rect" coords="69, 50, 126, 90" href="Legacy_sections/casset_player_screen/casset_player.html?video=bones.mp4"/>
+        <area alt="video 4" shape="rect" coords="6, 50, 63, 88" href="Legacy_sections/casset_player_screen/casset_player.html?video=puttingon.mp4"/>
+        <area alt="video 3" shape="rect" coords="133, 6, 190, 44" href="Legacy_sections/casset_player_screen/casset_player.html?video=rocksfilm.mp4"/>
+        <area alt="video 2" shape="rect" coords="67, 3, 126, 45" href="Legacy_sections/casset_player_screen/casset_player.html?video=ontrail.mp4"/>
+        <area alt="video 1" shape="rect" coords="6, 5, 63, 43" href="Legacy_sections/casset_player_screen/casset_player.html?video=packs.mp4"/>
+    </map>
 
     <hr class="blank">
     <!--main section buttons-->
@@ -61,6 +70,17 @@
             console.log("discovered clicked");
             window.location.href = 'legacy.html';
         });
+    </script>
+    <script>
+        //media has been lost to time
+        document.getElementById('image1').addEventListener('click', () => {
+            console.log('clicked image1');
+            alert('Other Images are lost to Time');
+        })
+        document.getElementById('image2').addEventListener('click', () => {
+            console.log('clicked image2');
+            alert('Video is lost to Time');
+        })
     </script>
 </body>
 </html>

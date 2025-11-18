@@ -19,3 +19,8 @@ div.image_container{
     justify-content: center;
     gap: 25px
 }
+/*making the image the center of the screen*/
+img.image_center_custom{
+    display: block;
+    margin: 100px auto;
+}
