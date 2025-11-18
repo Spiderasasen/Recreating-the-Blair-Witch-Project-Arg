@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on legacy&#10;Finshed the code for the first page. holy shit its a lot of code and a few changes that i like of it">
-      <change afterPath="$PROJECT_DIR$/Legacy_sections/Audio/audio.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Legacy_sections/Audio/dat_player.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on legacy&#10;With the help of the last section, i fixed it to be with audio than with video. I love this">
+      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java_script/legacy_navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/legacy_navigation.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/legacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/legacy.html" afterDir="false" />
@@ -129,15 +129,7 @@
       <workItem from="1763079894181" duration="1015000" />
       <workItem from="1763124343944" duration="4338000" />
       <workItem from="1763226513334" duration="5161000" />
-      <workItem from="1763470024839" duration="11865000" />
-    </task>
-    <task id="LOCAL-00002" summary="Im creating the main page, before the animations to see how the page will look like">
-      <option name="closed" value="true" />
-      <created>1761241855220</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1761241855220</updated>
+      <workItem from="1763470024839" duration="13329000" />
     </task>
     <task id="LOCAL-00003" summary="Im creating the main page, before the animations to see how the page will look like">
       <option name="closed" value="true" />
@@ -523,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763480698322</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Working on legacy&#10;With the help of the last section, i fixed it to be with audio than with video. I love this">
+      <option name="closed" value="true" />
+      <created>1763483094219</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1763483094219</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="i created the recreation section of the code. its not done. not at all. but it has a basic bone structre to fallow.&#10;I might ask wills and kay if they can help me create a kinda fallow up story for the blair witch just so we can scare our professor more&#10;but the thank you email, if im lucky, will be sent out around the end of the month. where each student will send me a bout a paragrah in length just thanking the teacher for the class. and if we can, ill find a way to add a class picture for us. this is a xmas present so i need to make it scary but not tooooooo scary" />
     <MESSAGE value="Working on filmmaker&#10;creating the main sections" />
     <MESSAGE value="Working on filmmaker&#10;made the main layout, now to add the other sections" />
     <MESSAGE value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
@@ -566,6 +565,7 @@
     <MESSAGE value="Working on legacy&#10;Finished the first layout, i might add some items to the section that makes it a bit more unique" />
     <MESSAGE value="Working on legacy&#10;Got a nice code for the vcr section. I mean i could have done it like that for all of them but it makes more sense in this section. like people see that its been worked on and some of them are availbe to the public." />
     <MESSAGE value="Working on legacy&#10;Finshed the code for the first page. holy shit its a lot of code and a few changes that i like of it" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on legacy&#10;Finshed the code for the first page. holy shit its a lot of code and a few changes that i like of it" />
+    <MESSAGE value="Working on legacy&#10;With the help of the last section, i fixed it to be with audio than with video. I love this" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on legacy&#10;With the help of the last section, i fixed it to be with audio than with video. I love this" />
   </component>
 </project>
