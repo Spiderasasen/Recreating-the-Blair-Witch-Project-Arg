@@ -25,16 +25,20 @@
                 <p>Twelve photos recently released by the Frederick County Sheriff's office.</p>
             </div>
             <div>
-                <img alt="image of different tapes" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/hi8med.gif" usemap="#map">
+                <img id="vcr_tapes" alt="image of different tapes" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/hi8med.gif" usemap="#map">
                 <p>The ten H18 tapes found by students from the university of Maryland's Anthropology Department.</p>
             </div>
         </div>
         <!--normal section-->
         <div>
             <div class="image_container">
-                <img alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can_1.gif">
+                <a href="Legacy_sections/Film_can_section/film_cans.html?video=can1.mp4">
+                    <img alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can_1.gif">
+                </a>
                 <img id="image2" alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can2.gif">
-                <img alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can_3.gif">
+                <a href="Legacy_sections/Film_can_section/film_cans.html?video=cemetaryscrewup.mp4">
+                    <img alt="image of canister" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/can_3.gif">
+                </a>
             </div>
             <div class="text_container_custom">
                 <p>Three of the eleven 16mm film cans discovered eight months after the filmmaker's disappearance. An additional roll of film was found in the makeup reel of the CP-16 camera.</p>
@@ -72,6 +76,8 @@
         });
     </script>
     <script>
+        const tapes = document.getElementById('vcr_tapes');
+
         //media has been lost to time
         document.getElementById('image1').addEventListener('click', () => {
             console.log('clicked image1');
@@ -79,6 +85,11 @@
         })
         document.getElementById('image2').addEventListener('click', () => {
             console.log('clicked image2');
+            alert('Video is lost to Time');
+        })
+
+        tapes.addEventListener('click', () => {
+            console.log('clicked tapes');
             alert('Video is lost to Time');
         })
     </script>

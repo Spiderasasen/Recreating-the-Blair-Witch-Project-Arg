@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on legacy&#10;Finished the first layout, i might add some items to the section that makes it a bit more unique">
-      <change afterPath="$PROJECT_DIR$/Legacy_sections/casset_player_screen/casset_player.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on legacy&#10;Got a nice code for the vcr section. I mean i could have done it like that for all of them but it makes more sense in this section. like people see that its been worked on and some of them are availbe to the public.">
+      <change afterPath="$PROJECT_DIR$/Legacy_sections/Film_can_section/film_cans.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/legacy_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/legacy_main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/legacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/legacy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -128,7 +127,7 @@
       <workItem from="1763079894181" duration="1015000" />
       <workItem from="1763124343944" duration="4338000" />
       <workItem from="1763226513334" duration="5161000" />
-      <workItem from="1763470024839" duration="7761000" />
+      <workItem from="1763470024839" duration="9483000" />
     </task>
     <task id="LOCAL-00001" summary="making the first bit of contact of the website. with a bit of a basic layout of it">
       <option name="closed" value="true" />
@@ -514,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763399453494</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Working on legacy&#10;Got a nice code for the vcr section. I mean i could have done it like that for all of them but it makes more sense in this section. like people see that its been worked on and some of them are availbe to the public.">
+      <option name="closed" value="true" />
+      <created>1763478800722</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1763478800722</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Creating the other screens&#10;finished Rustin Parr&#10;Honstley, even though it had a lot of screen i had more fun, adding some of my unique elements like the video overlay and also the mapping of the newspaper. so yeah, good one" />
     <MESSAGE value="Creating the other screens&#10;finished Marry Brown&#10;a lot of audio, and more disscussion on the blair witch" />
     <MESSAGE value="i created the recreation section of the code. its not done. not at all. but it has a basic bone structre to fallow.&#10;I might ask wills and kay if they can help me create a kinda fallow up story for the blair witch just so we can scare our professor more&#10;but the thank you email, if im lucky, will be sent out around the end of the month. where each student will send me a bout a paragrah in length just thanking the teacher for the class. and if we can, ill find a way to add a class picture for us. this is a xmas present so i need to make it scary but not tooooooo scary" />
     <MESSAGE value="Working on filmmaker&#10;creating the main sections" />
@@ -557,6 +563,7 @@
     <MESSAGE value="Finally go some type of a story for this.&#10;we got a young dev how is happy that he found a the orginal website off the internet archives. and he wants to recreate it." />
     <MESSAGE value="Working on legacy&#10;added some basic layout and also navigation to it" />
     <MESSAGE value="Working on legacy&#10;Finished the first layout, i might add some items to the section that makes it a bit more unique" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on legacy&#10;Finished the first layout, i might add some items to the section that makes it a bit more unique" />
+    <MESSAGE value="Working on legacy&#10;Got a nice code for the vcr section. I mean i could have done it like that for all of them but it makes more sense in this section. like people see that its been worked on and some of them are availbe to the public." />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on legacy&#10;Got a nice code for the vcr section. I mean i could have done it like that for all of them but it makes more sense in this section. like people see that its been worked on and some of them are availbe to the public." />
   </component>
 </project>
