@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Legacy, Audio</title>
+    <link rel="stylesheet" href="../../css/main.css" type="text/css">
+    <link rel="stylesheet" href="../../css/legacy_main.css" type="text/css">
+</head>
+<body>
+    <div>
+        <img id="legacy" class="center_img" alt="legacy text" src="https://web.archive.org/web/20210228224126im_/https://www.blairwitch.com/project/legacyhead.gif">
+        <div class="font_container">
+            <p class="font mini_width_custom" id="discovered">Discovered Footage</p>
+            <p class="font mini_width_custom" id="audios">Audio</p>
+            <p class="font mini_width_custom" id="journal">Heather's Journal</p>
+        </div>
+    </div>
+    <hr class="blank">
+
+<!--    section that where the user will click on and get to listen to the audio-->
+    <div>
+        <img usemap="#map" class="center_img" alt="image of several differnt DAT types" id="dat_types" src="https://web.archive.org/web/20190821141744im_/http://www.blairwitch.com/project/dats_sm.gif">
+        <div class="text_container_custom">
+            <p>The five DAT tapes used by Michael Williams to record sound during the filmmakers' journey into the Black Hills.</p>
+        </div>
+    </div>
+<!--    mapping section-->
+    <map name="map">
+        <area alt="DAT Tape 3" shape="rect" coords="5, 80, 96, 144" href="dat_player.html?audio=supposed.mp3" />
+        <area alt="DAT Tape 2" shape="rect" coords="104, 5, 192, 71" href="dat_player.html?audio=argument.mp3" />
+        <area alt="DAT Tape 1" shape="rect" coords="3, 6, 96, 70" href="dat_player.html?audio=whatsound.mp3" />
+    </map>
+
+    <!--main section buttons-->
+    <div class="font_container">
+        <p class="font mini_width" id="home">Home</p>
+        <p class="font mini_width" id="myth">Mythology</p>
+        <p class="font mini_width" id="filmmakers">Filmmakers</p>
+        <p class="font mini_width" id="aftermath">Aftermath</p>
+        <p class="font mini_width" id="recreation">Recreation</p>
+    </div>
+<!--js code-->
+    <script src="../../java_script/navigation_to_leave_2_directories.js"></script>
+    <script src="../../java_script/legacy_navigation.js"></script>
+    <script>
+        document.getElementById('dat_types').addEventListener('click', () => {
+            console.log('clicked');
+            alert('Tapes are lost to Time')
+        })
+    </script>
+</body>
+</html>

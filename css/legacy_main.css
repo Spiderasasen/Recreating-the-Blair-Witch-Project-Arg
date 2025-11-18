@@ -23,4 +23,5 @@ div.image_container{
 img.image_center_custom{
     display: block;
     margin: 100px auto;
+    width: 550px;
 }

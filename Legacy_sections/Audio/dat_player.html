@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Dat Player</title>
+    <link rel="stylesheet" href="../../css/main.css" type="text/css">
+    <link rel="stylesheet" href="../../css/legacy_main.css" type="text/css">
+</head>
+<body>
+    <img class="image_center_custom" alt="Dat Player" src="../../assests/dat_player.png">
+    <script>
+        //getting the audio
+        const parms = new URLSearchParams(window.location.search);
+        const audioId = parms.get("audio");
+        const audio = new Audio(`../../assests/audio/${audioId}`);
+
+        //playing the audio
+        console.log(audio);
+        audio.play()
+
+        //when the audio is done it will send you back to the original window
+        audio.addEventListener("ended", () => {
+            window.location.href = "../../Legacy_sections/Audio/audio.html";
+        });
+
+        //safety net, for 10 seconds
+        setTimeout(() => {
+            window.location.href = "../../Legacy_sections/Audio/audio.html";
+        }, 30000);
+    </script>
+</body>
+</html>
