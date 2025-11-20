@@ -6,6 +6,48 @@
   <component name="ChangeListManager">
     <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on legacy&#10;Back to normal stuff, ill finish for the day">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Bliar/Blair1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Bliar/Blair1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Bliar/Blair2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Bliar/Blair2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Bliar/Blair3.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Bliar/Blair3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Book_section/Book1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Book_section/Book1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Book_section/Book2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Book_section/Book2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Book_section/Book3.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Book_section/Book3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Book_section/Book4.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Book_section/Book4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Book_section/Book5.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Book_section/Book5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Book_section/Book6.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Book_section/Book6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Brown/Brown1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Brown/Brown2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Brown/Brown3.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Brown/Brown4.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Brown/Brown4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Coffin/Coffin1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Coffin/Coffin2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Coffin/Coffin3.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Coffin/Coffin4.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Coffin/Coffin5.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Coffin/Coffin6.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Coffin/Coffin7.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Coffin/Coffin7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Fishermen/Fishermen1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Fishermen/Fishermen1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Fishermen/Fishermen2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Fishermen/Fishermen2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Kedward/Kedward1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Kedward/Kedward1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Kedward/Kedward2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Kedward/Kedward2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr10.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr11.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr3.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr4.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr5.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr6.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr7.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr8.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Parr/Parr9.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Parr/Parr9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Tappy/Tappy1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Tappy/Tappy1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Tappy/Tappy2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Tappy/Tappy2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Town/Town1.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Town/Town1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Town/Town2.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Town/Town2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Town/Town3.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Town/Town3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Town/Town4.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Town/Town4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myth_sections/Town/Town5.html" beforeDir="false" afterPath="$PROJECT_DIR$/myth_sections/Town/Town5.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,33 +94,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Blair3.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.Coffin2.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.Filmmaker9.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.aftermath.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.interview5.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.myth.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.the_developer.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.the_devolper.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;working-on-legacy&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Blair3.html.executor": "Debug",
+    "JavaScript Debug.Coffin2.html.executor": "Debug",
+    "JavaScript Debug.Filmmaker9.html.executor": "Debug",
+    "JavaScript Debug.aftermath.html.executor": "Debug",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "JavaScript Debug.interview5.html.executor": "Debug",
+    "JavaScript Debug.myth.html.executor": "Debug",
+    "JavaScript Debug.the_developer.html.executor": "Run",
+    "JavaScript Debug.the_devolper.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "fixing-directories",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\Reconstruction" />
