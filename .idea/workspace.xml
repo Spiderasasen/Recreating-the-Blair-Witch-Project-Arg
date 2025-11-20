@@ -4,12 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on legacy&#10;Back to normal stuff, ill finish for the day">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmaker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker3.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker4.html" beforeDir="false" afterPath="$PROJECT_DIR$/filmmakers_sections/main_film/Filmmaker4.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done">
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather3.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather4.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather5.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather6.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather7.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather8.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather9.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh10.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh3.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh4.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh5.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh6.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh7.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh8.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh9.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael3.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael4.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael5.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael6.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael7.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael7.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,14 +152,6 @@
       <workItem from="1763226513334" duration="5161000" />
       <workItem from="1763470024839" duration="13578000" />
       <workItem from="1763645803622" duration="505000" />
-    </task>
-    <task id="LOCAL-00005" summary="main page&#10;fixed the transition part of the code">
-      <option name="closed" value="true" />
-      <created>1761321308501</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1761321308513</updated>
     </task>
     <task id="LOCAL-00006" summary="main page&#10;editing font">
       <option name="closed" value="true" />
@@ -524,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763652496709</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done">
+      <option name="closed" value="true" />
+      <created>1763653774927</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1763653774927</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
     <MESSAGE value="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather" />
     <MESSAGE value="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael" />
     <MESSAGE value="Started working on Heather section&#10;I worked on this section for an hour and i was still about to cry even though its just the css section" />
@@ -567,6 +587,7 @@
     <MESSAGE value="Working on legacy&#10;With the help of the last section, i fixed it to be with audio than with video. I love this" />
     <MESSAGE value="Working on legacy&#10;Back to normal stuff, ill finish for the day" />
     <MESSAGE value="fixing directories&#10;I fixed myth, so many times i just did ../..(/something/something_else.coding_type)" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing directories&#10;I fixed myth, so many times i just did ../..(/something/something_else.coding_type)" />
+    <MESSAGE value="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done" />
   </component>
 </project>
