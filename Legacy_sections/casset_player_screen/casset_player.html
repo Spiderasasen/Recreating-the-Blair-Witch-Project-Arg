@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>VCR</title>
-    <link rel="stylesheet" href="/css/main.css" type="text/css">
-    <link rel="stylesheet" href="/css/legacy_main.css" type="text/css">
+    <link rel="stylesheet" href="../../css/main.css" type="text/css">
+    <link rel="stylesheet" href="../../css/legacy_main.css" type="text/css">
     <style>
         body {
             margin: 0;
@@ -38,7 +38,7 @@
 </head>
 <body>
 <div class="tv-container">
-    <img src="/assests/Black_screen.png" alt="Old VCR TV" class="tv-image">
+    <img src="../../assests/Black_screen.png" alt="Old VCR TV" class="tv-image">
 
     <!-- Video overlay without hardcoded source -->
     <video id="tv-video" class="tv-video" autoplay playsinline></video>
@@ -64,7 +64,7 @@
     }
 
     // Dynamically set video source
-    video.src = `/assests/Video/${videoId}`;
+    video.src = `../../assests/Video/${videoId}`;
     video.play();
 
 
