@@ -12,5 +12,5 @@ josh.addEventListener("click", () => {
 })
 michael.addEventListener("click", () => {
     console.log("michael clicked");
-    window.location.href = '../../inividual_filmmakers/Michael/Michael1.html';
+    window.location.href = '../../inividual_filmmakers/Micheal/Michael1.html';
 })
