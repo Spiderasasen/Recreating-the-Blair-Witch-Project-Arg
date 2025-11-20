@@ -5,44 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview13.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview14.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview14.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview15.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview15.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview16.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview16.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview17.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview17.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/new3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/new3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/new4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/new4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/new5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/new5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/new6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/new6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/news1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/news1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/news2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/news2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Legacy_sections/Film_can_section/film_cans.html" beforeDir="false" afterPath="$PROJECT_DIR$/Legacy_sections/Film_can_section/film_cans.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Legacy_sections/casset_player_screen/casset_player.html" beforeDir="false" afterPath="$PROJECT_DIR$/Legacy_sections/casset_player_screen/casset_player.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,33 +53,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.Blair3.html.executor": "Debug",
-    "JavaScript Debug.Coffin2.html.executor": "Debug",
-    "JavaScript Debug.Filmmaker9.html.executor": "Debug",
-    "JavaScript Debug.aftermath.html.executor": "Debug",
-    "JavaScript Debug.index.html.executor": "Debug",
-    "JavaScript Debug.interview5.html.executor": "Debug",
-    "JavaScript Debug.myth.html.executor": "Debug",
-    "JavaScript Debug.the_developer.html.executor": "Run",
-    "JavaScript Debug.the_devolper.html.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "fixing-directories",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JavaScript Debug.Blair3.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.Coffin2.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.Filmmaker9.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.aftermath.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.interview5.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.myth.html.executor&quot;: &quot;Debug&quot;,
+    &quot;JavaScript Debug.the_developer.html.executor&quot;: &quot;Run&quot;,
+    &quot;JavaScript Debug.the_devolper.html.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;fixing-directories&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\Reconstruction" />
@@ -164,14 +128,6 @@
       <workItem from="1763226513334" duration="5161000" />
       <workItem from="1763470024839" duration="13578000" />
       <workItem from="1763645803622" duration="505000" />
-    </task>
-    <task id="LOCAL-00006" summary="main page&#10;editing font">
-      <option name="closed" value="true" />
-      <created>1761322642612</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1761322642612</updated>
     </task>
     <task id="LOCAL-00007" summary="main page&#10;finishing the first thing of the project">
       <option name="closed" value="true" />
@@ -557,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763653774927</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="fixing directories&#10;I fixed aftermath, so many times i just did ../..(/something/something_else.coding_type)">
+      <option name="closed" value="true" />
+      <created>1763656079945</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1763656079945</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather" />
     <MESSAGE value="Started working on Heather section&#10;I think i got the system for the navigation working again, where both the css and the js code work together&#10;now im scared for the Josh and Michael" />
     <MESSAGE value="Started working on Heather section&#10;I worked on this section for an hour and i was still about to cry even though its just the css section" />
     <MESSAGE value="Started working on Heather section&#10;commit before stats class&#10;Learned a bit for the new system, which is grid. its intersting how much i learned about html and css from this project. makes me want to make more projects like this now" />
@@ -600,6 +563,7 @@
     <MESSAGE value="Working on legacy&#10;Back to normal stuff, ill finish for the day" />
     <MESSAGE value="fixing directories&#10;I fixed myth, so many times i just did ../..(/something/something_else.coding_type)" />
     <MESSAGE value="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done" />
+    <MESSAGE value="fixing directories&#10;I fixed aftermath, so many times i just did ../..(/something/something_else.coding_type)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixing directories&#10;I fixed aftermath, so many times i just did ../..(/something/something_else.coding_type)" />
   </component>
 </project>
