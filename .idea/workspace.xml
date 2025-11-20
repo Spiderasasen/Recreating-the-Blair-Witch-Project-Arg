@@ -5,32 +5,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done">
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather3.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather4.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather5.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather6.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather7.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather8.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather9.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Heather/Heather9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh10.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh3.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh4.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh5.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh6.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh7.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh8.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh9.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Josh/Josh9.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael1.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael2.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael3.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael4.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael5.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael6.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael7.html" beforeDir="false" afterPath="$PROJECT_DIR$/inividual_filmmakers/Micheal/Michael7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Evidence/evidence5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview10.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview10.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview11.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview11.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview12.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview12.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview13.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview13.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview14.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview14.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview15.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview15.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview16.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview16.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview17.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview17.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Interview/interview9.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Interview/interview9.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/new3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/new3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/new4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/new4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/new5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/new5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/new6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/new6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/news1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/news1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/News/news2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/News/news2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search7.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Aftermath_sections/Search/search8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Aftermath_sections/Search/search8.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
