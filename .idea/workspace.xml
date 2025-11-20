@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on legacy&#10;With the help of the last section, i fixed it to be with audio than with video. I love this">
-      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal2.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="Working on legacy&#10;Back to normal stuff, ill finish for the day">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/java_script/legacy_navigation.js" beforeDir="false" afterPath="$PROJECT_DIR$/java_script/legacy_navigation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/legacy.html" beforeDir="false" afterPath="$PROJECT_DIR$/legacy.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,15 +125,8 @@
       <workItem from="1763079894181" duration="1015000" />
       <workItem from="1763124343944" duration="4338000" />
       <workItem from="1763226513334" duration="5161000" />
-      <workItem from="1763470024839" duration="13329000" />
-    </task>
-    <task id="LOCAL-00003" summary="Im creating the main page, before the animations to see how the page will look like">
-      <option name="closed" value="true" />
-      <created>1761241869669</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1761241869669</updated>
+      <workItem from="1763470024839" duration="13578000" />
+      <workItem from="1763645803622" duration="505000" />
     </task>
     <task id="LOCAL-00004" summary="main page&#10;Created the main page look, now i need to add the animation from the start.">
       <option name="closed" value="true" />
@@ -523,7 +512,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763483094219</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="Working on legacy&#10;Back to normal stuff, ill finish for the day">
+      <option name="closed" value="true" />
+      <created>1763485767275</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1763485767275</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Working on filmmaker&#10;creating the main sections" />
     <MESSAGE value="Working on filmmaker&#10;made the main layout, now to add the other sections" />
     <MESSAGE value="Working on filmmaker&#10;made some sections of the code. got to Filmmaker9.html and there is still a lot to go.&#10;I really miss the sections of the video now.&#10;I mean i know that if i do the same system for the buttons, then i need to learn some things that i still dont feel confident about. so ill do it rough and ditry now." />
     <MESSAGE value="Started working on Heather section&#10;made a js file for the nav for the first indiv filmmakers&#10;starting on heather" />
@@ -566,6 +562,7 @@
     <MESSAGE value="Working on legacy&#10;Got a nice code for the vcr section. I mean i could have done it like that for all of them but it makes more sense in this section. like people see that its been worked on and some of them are availbe to the public." />
     <MESSAGE value="Working on legacy&#10;Finshed the code for the first page. holy shit its a lot of code and a few changes that i like of it" />
     <MESSAGE value="Working on legacy&#10;With the help of the last section, i fixed it to be with audio than with video. I love this" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working on legacy&#10;With the help of the last section, i fixed it to be with audio than with video. I love this" />
+    <MESSAGE value="Working on legacy&#10;Back to normal stuff, ill finish for the day" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working on legacy&#10;Back to normal stuff, ill finish for the day" />
   </component>
 </project>
