@@ -3,8 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <title>Film Cans</title>
-    <link rel="stylesheet" href="/css/main.css" type="text/css">
-    <link rel="stylesheet" href="/css/legacy_main.css" type="text/css">
+    <link rel="stylesheet" href="../../css/main.css" type="text/css">
+    <link rel="stylesheet" href="../../css/legacy_main.css" type="text/css">
     <style>
         body {
             margin: 0;
@@ -40,7 +40,7 @@
 </head>
 <body>
 <div class="tv-container">
-    <img src="/assests/film_screen.jpg" alt="Film Screen" class="tv-image">
+    <img src="../../assests/film_screen.jpg" alt="Film Screen" class="tv-image">
 
     <!-- Video overlay without hardcoded source -->
     <video id="tv-video" class="tv-video" autoplay playsinline></video>
@@ -53,7 +53,7 @@
     const video = document.getElementById("tv-video");
 
     // Dynamically set video source
-    video.src = `/assests/Video/${videoId}`;
+    video.src = `../../assests/Video/${videoId}`;
     video.play();
 
 
