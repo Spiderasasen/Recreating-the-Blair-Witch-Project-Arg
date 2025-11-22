@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done">
-      <change beforePath="$PROJECT_DIR$/Legacy_sections/Film_can_section/film_cans.html" beforeDir="false" afterPath="$PROJECT_DIR$/Legacy_sections/Film_can_section/film_cans.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Legacy_sections/casset_player_screen/casset_player.html" beforeDir="false" afterPath="$PROJECT_DIR$/Legacy_sections/casset_player_screen/casset_player.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="fixing directories&#10;I fixed Legacy, so many times i just did ../..(/something/something_else.coding_type)">
+      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Legacy_sections/Journal/Journal2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/legacy_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/legacy_main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,33 +56,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;JavaScript Debug.Blair3.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.Coffin2.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.Filmmaker9.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.aftermath.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.index.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.interview5.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.myth.html.executor&quot;: &quot;Debug&quot;,
-    &quot;JavaScript Debug.the_developer.html.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript Debug.the_devolper.html.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;fixing-directories&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.Blair3.html.executor": "Debug",
+    "JavaScript Debug.Coffin2.html.executor": "Debug",
+    "JavaScript Debug.Filmmaker9.html.executor": "Debug",
+    "JavaScript Debug.aftermath.html.executor": "Debug",
+    "JavaScript Debug.index.html.executor": "Debug",
+    "JavaScript Debug.interview5.html.executor": "Debug",
+    "JavaScript Debug.myth.html.executor": "Debug",
+    "JavaScript Debug.the_developer.html.executor": "Run",
+    "JavaScript Debug.the_devolper.html.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "finishing-legacy",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\spide\OneDrive\Documents\computer science MAIN\html\Recreating-the-Blair-Witch-Project-Arg\Reconstruction" />
@@ -128,6 +131,9 @@
       <workItem from="1763226513334" duration="5161000" />
       <workItem from="1763470024839" duration="13578000" />
       <workItem from="1763645803622" duration="505000" />
+      <workItem from="1763657538782" duration="25000" />
+      <workItem from="1763733896909" duration="55000" />
+      <workItem from="1763840900006" duration="6263000" />
     </task>
     <task id="LOCAL-00007" summary="main page&#10;finishing the first thing of the project">
       <option name="closed" value="true" />
