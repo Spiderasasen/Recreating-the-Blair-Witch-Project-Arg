@@ -39,3 +39,6 @@ div.elements_container{
 span.underline{
     text-decoration: underline;
 }
+span.dashline{
+    text-decoration: dashed;
+}

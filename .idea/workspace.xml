@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;I can deal with it but, but fuck its to much">
-      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal6.html" afterDir="false" />
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;added 2 more pages, now getting something to eat">
+      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal8.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Legacy_sections/Journal/Journal6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Legacy_sections/Journal/Journal6.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/legacy_main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/legacy_main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -132,15 +134,7 @@
       <workItem from="1763657538782" duration="25000" />
       <workItem from="1763733896909" duration="55000" />
       <workItem from="1763840900006" duration="6636000" />
-      <workItem from="1763915634574" duration="4253000" />
-    </task>
-    <task id="LOCAL-00008" summary="Working on myth screen&#10;finally finishing the code&#10;adding the links with the respected color">
-      <option name="closed" value="true" />
-      <created>1761672644856</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1761672644856</updated>
+      <workItem from="1763915634574" duration="9210000" />
     </task>
     <task id="LOCAL-00009" summary="Creating the other screens&#10;i added more assets to the screen.&#10;I only added audio right now. but it will be better">
       <option name="closed" value="true" />
@@ -526,7 +520,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763847502548</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;added 2 more pages, now getting something to eat">
+      <option name="closed" value="true" />
+      <created>1763920025280</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1763920025280</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +546,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Started working on Heather section&#10;I worked on this section for an hour and i was still about to cry even though its just the css section" />
     <MESSAGE value="Started working on Heather section&#10;commit before stats class&#10;Learned a bit for the new system, which is grid. its intersting how much i learned about html and css from this project. makes me want to make more projects like this now" />
     <MESSAGE value="Micheal&#10;Ive finished all the invidual sections. to be honest this wasnt to bad on the creation. well you made it 2 times and all the differnt sections on how you want it to be created is already there. so its mainly just copy and paste." />
     <MESSAGE value="Recreation&#10;fixed the js a bit to make it show a type of hint" />
@@ -569,6 +570,7 @@
     <MESSAGE value="fixing directories&#10;I fixed Filmmakers, so many times i just did ../..(/something/something_else.coding_type)&#10;Filmmakers section are done" />
     <MESSAGE value="fixing directories&#10;I fixed aftermath, so many times i just did ../..(/something/something_else.coding_type)" />
     <MESSAGE value="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;I can deal with it but, but fuck its to much" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;I can deal with it but, but fuck its to much" />
+    <MESSAGE value="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;added 2 more pages, now getting something to eat" />
+    <option name="LAST_COMMIT_MESSAGE" value="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;added 2 more pages, now getting something to eat" />
   </component>
 </project>
