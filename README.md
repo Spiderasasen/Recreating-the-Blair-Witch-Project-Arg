@@ -12,3 +12,8 @@ simple, there will be an about page that will say that I wanted to recreate the 
    1. he looked so memorized by the website, well the little bits that used to be there
    2. I will also include a quote from everyone that took the class with him for this unit
    3. a final image that will depict all of us
+3. I also made this into my main project for my German/Fantisy class. It was fun to add all the things here and also explain everything here
+   1. For Google Doc
+      1. Google Docs link
+   3. For Slides
+      1. Google Slides link
