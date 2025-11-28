@@ -4,9 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;there is 12 of these. i did 8 already. only 4 more. by the gods. i can do it">
+    <list default="true" id="eaaac93f-b89a-4508-966a-359ff29a998a" name="Changes" comment="This right here, is the best page in the whole website">
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev11.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Recreation/password_1999/dev9.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recreation/password_3700/Thank_you_letter.html" beforeDir="false" afterPath="$PROJECT_DIR$/Recreation/password_3700/Thank_you_letter.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +28,7 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="fixing-directories" />
+    <option name="BRANCH" value="working-on-the-3700-password" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -69,7 +74,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "working-on-the-3700-password",
+    "git-widget-placeholder": "finishing-password-1999",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -133,6 +138,7 @@
       <workItem from="1763840900006" duration="6636000" />
       <workItem from="1763915634574" duration="13461000" />
       <workItem from="1764093616652" duration="2452000" />
+      <workItem from="1764349301330" duration="4888000" />
     </task>
     <task id="LOCAL-00010" summary="Creating the other screens&#10;i added more assets to the screen.&#10;I only added audio right now. but it will be better">
       <option name="closed" value="true" />
@@ -544,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Micheal&#10;Ive finished all the invidual sections. to be honest this wasnt to bad on the creation. well you made it 2 times and all the differnt sections on how you want it to be created is already there. so its mainly just copy and paste." />
     <MESSAGE value="Recreation&#10;fixed the js a bit to make it show a type of hint" />
     <MESSAGE value="Aftermath&#10;I did the basic navigation section of the code. I also made the basic layout of the code." />
     <MESSAGE value="Aftermath&#10;fixed some navigation issues. made some video code, and audio again. Feeling like there is going to be more of that in the future but i also have an idea for some later code" />
@@ -569,6 +574,7 @@
     <MESSAGE value="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;I can deal with it but, but fuck its to much" />
     <MESSAGE value="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;added 2 more pages, now getting something to eat" />
     <MESSAGE value="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;there is 12 of these. i did 8 already. only 4 more. by the gods. i can do it" />
-    <option name="LAST_COMMIT_MESSAGE" value="finishing legacy&#10;WHY IS THERE SO MUCH SHIT TO ADD IN ONE SECTION&#10;there is 12 of these. i did 8 already. only 4 more. by the gods. i can do it" />
+    <MESSAGE value="This right here, is the best page in the whole website" />
+    <option name="LAST_COMMIT_MESSAGE" value="This right here, is the best page in the whole website" />
   </component>
 </project>
