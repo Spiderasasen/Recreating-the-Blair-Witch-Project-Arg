@@ -15,5 +15,6 @@ simple, there will be an about page that will say that I wanted to recreate the 
 3. I also made this into my main project for my German/Fantisy class. It was fun to add all the things here and also explain everything here
    1. For Google Doc
       1. Google Docs link
+         1.    https://docs.google.com/document/d/1u88GBy4Cl9q-i9Fc-0WSRaPM7POenBBS9B6w2EUPJlE/edit?usp=sharing
    3. For Slides
       1. Google Slides link
